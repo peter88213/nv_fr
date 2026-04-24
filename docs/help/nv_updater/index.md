@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_updater
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_updater
 
 ---
 
@@ -8,16 +8,16 @@
 
 This page refers to the latest
 [nv_updater](https://github.com/peter88213/nv_updater/) release. You can
-open it with **${Help} > ${Update checker Online help}**.
+open it with **Aid&e > ${Update checker Online help}**.
 
 The plugin adds a **${Check for updates}** entry to the *novelibre*
-**${Tools}** menu, and an **${Update checker Online help}** entry to the
-**${Help}** menu.
+**Outils** menu, and an **${Update checker Online help}** entry to the
+**Aid&e** menu.
 
 ## Start the update checker
 
 Open the update checker from the main menu: 
-**${Tools} > ${Check for updates}**.
+**Outils > ${Check for updates}**.
 
 A list pops up, showing installed software components and their version
 information. Outdated list entries are colored red.
@@ -56,7 +56,7 @@ component. There you can see e.g. the changelog.
 
 starts your web browser with this page of the user guide.
 
-#### ${Close}
+#### Fermer
 
 Closes the update manager window and stops pending version checks.
 
@@ -70,4 +70,4 @@ Closes the update manager window and stops pending version checks.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

@@ -9,10 +9,10 @@
 
 This page refers to the latest
 [nv_progress](https://github.com/peter88213/nv_progress/) release. 
-You can open it with **${Help} > ${Progress viewer Online help}**.
+You can open it with **Aid&e > ${Progress viewer Online help}**.
 
 The plugin adds a **${Daily progress log}** entry to the *novelibre*
-**${Tools}** menu.
+**Outils** menu.
 
 
 > **Important**
@@ -24,7 +24,7 @@ The plugin adds a **${Daily progress log}** entry to the *novelibre*
 ## Launch the program
 
 -   Open the progress log viewer from the main menu: 
-    **${Tools} > ${Daily progress log}**.
+    **Outils > ${Daily progress log}**.
 -   While the *nv_progress* window is open, the actual word count is
     automatically updated.
 

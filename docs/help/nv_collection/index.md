@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_collection
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_collection
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_collection](https://github.com/peter88213/nv_collection/) release.
-You can open it with **${Help} > ${Collection plugin Online help}**.
+You can open it with **Aid&e > ${Collection plugin Online help}**.
 
 If you have several *novelibre* projects, you can manage them as books
 in a collection, also organized by series. A collection gives you quick
@@ -16,23 +16,23 @@ access to your projects.
 
 ## Start the collection manager
 
-Open the collection manager from the main menu: **${File} > ${Collection}**.
+Open the collection manager from the main menu: **Fichier > ${Collection}**.
 
 ## Open a collection
 
 By default, the latest collection selected is preset. You can change it
-with **${File} > ${Open}**.
+with **Fichier > Ouvrir**.
 
 ## Create a new collection
 
-With **${File} > ${New}**, you can create a new collection. This will close
+With **Fichier > Nouveau**, you can create a new collection. This will close
 the current collection and open a file dialog asking for the location
 and file name of the collection to create. Once you specified a valid
 file path, a blank collection appears.
 
 ## Create a new series
 
-With **${Series} > ${Add}**, you can add a new series. Edit the series' title
+With **${Series} > Ajouter**, you can add a new series. Edit the series' title
 and description in the right window.
 
 ## Add books to the collection
@@ -97,8 +97,8 @@ collection, use **${Series} > ${Remove selected series}**.
 
 ## Quit/Exit
 
--   Under Windows you can exit with **${File} > ${Exit}** or `Alt`-`F4`.
--   Otherwise you can exit with **${File} > ${Quit}** or `${Ctrl}`-`Q`.
+-   Under Windows you can exit with **Fichier > Sortir** or `Alt`-`F4`.
+-   Otherwise you can exit with **Fichier > ${Quit}** or `${Ctrl}`-`Q`.
 
 
 ---
@@ -106,4 +106,4 @@ collection, use **${Series} > ${Remove selected series}**.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

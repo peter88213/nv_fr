@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_templates
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_templates
 
 ---
 
@@ -8,14 +8,14 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **${Help} > ${Templates plugin Online help}**.
+can open it with **Aid&e > ${Templates plugin Online help}**.
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
 
-The plugin adds a **${Story Templates}** entry to the *novelibre* **${Tools}**
-menu, a **${${Create from Template\...}** entry to the **File} > ${New}**
-submenu, and a **${Template plugin Online Help}** entry to the **${Help}**
+The plugin adds a **${Story Templates}** entry to the *novelibre* **Outils**
+menu, a **${${Create from Template\...}** entry to the **File} > Nouveau**
+submenu, and a **${Template plugin Online Help}** entry to the **Aid&e**
 menu.
 
 
@@ -28,7 +28,7 @@ menu.
 
 ## Command reference
 
-### ${File} > ${New}
+### Fichier > Nouveau
 
 #### ${Create from template\...}
 
@@ -40,7 +40,7 @@ template file.
     name later when saving the project.
 -   Then a second file select dialog asks for the template file to apply.
 
-### ${Tools} > ${Story Templates}
+### Outils > ${Story Templates}
 
 #### ${Load\...}
 
@@ -131,4 +131,4 @@ This file generates the following structure in an empty project:
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

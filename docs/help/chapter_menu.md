@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Chapter} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Chapitre menu
 
 ---
 
-# ${Chapter} menu
+# Chapitre menu
 
 **Chapter/part operation**
 
@@ -10,7 +10,7 @@
 
 **Add a new chapter**
 
-With **${Chapter} > ${Add Chapter}**, you can add a chapter to the tree.
+With **Chapitre > ${Add Chapter}**, you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.
@@ -28,7 +28,7 @@ With **${Chapter} > ${Add Chapter}**, you can add a chapter to the tree.
 
 **Add a new part**
 
-With **${Chapter} > ${Add Part}**, you can add a part to the tree.
+With **Chapitre > ${Add Part}**, you can add a part to the tree.
 
 -   The new part is placed at the next free position on the chapter
     level after the selection, if possible.
@@ -41,7 +41,7 @@ With **${Chapter} > ${Add Part}**, you can add a part to the tree.
 
 **Add new chapters in bulk**
 
-With **${Chapter} > ${Add multiple chapters...}**, you can add up to 20
+With **Chapitre > ${Add multiple chapters...}**, you can add up to 20
 chapters to the tree.
 
 -   You will be prompted to enter the number of new chapters.
@@ -60,7 +60,7 @@ chapters to the tree.
 
 **Set the type of the selected chapters**
 
-With **${Chapter} > ${Set Type}**, you can set the
+With **Chapitre > ${Set Type}**, you can set the
 type of the selected chapter to *${Normal}* or *${Unused}* .
 
 > **Note**
@@ -72,7 +72,7 @@ type of the selected chapter to *${Normal}* or *${Unused}* .
 
 **Change the level of the selected chapters**
 
-With **${Chapter} > ${Change Level}**, you can turn chapters into parts and
+With **Chapitre > ${Change Level}**, you can turn chapters into parts and
 vice versa.
 
 -   **${1st Level}** converts the selected chapters into parts.
@@ -82,7 +82,7 @@ vice versa.
 
 **Split one book in two**
 
-With **${Chapter} > ${Move selected chapters to new project}** you can create
+With **Chapitre > ${Move selected chapters to new project}** you can create
 a new project containing the moved chapters/sections and all related
 elements and plot lines/plot points. The selected chapters are removed
 from the current project and pasted into an auto-generated project whose
@@ -93,7 +93,7 @@ the moved sections are retained.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Chapter} > ${Export chapter descriptions for editing}**, you can
+With **Chapitre > ${Export chapter descriptions for editing}**, you can
 create a text document that contains a **brief synopsis** with
 part/chapter headings and chapter descriptions that can be edited and
 reimported. File name suffix is `_chapters_tmp`.
@@ -116,7 +116,7 @@ reimported. File name suffix is `_chapters_tmp`.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Chapter} > ${Export part descriptions for editing}**, you can create a
+With **Chapitre > ${Export part descriptions for editing}**, you can create a
 text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
@@ -135,7 +135,7 @@ and part descriptions. File name suffix is `_parts_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Chapter} > ${Export chapter table}**, you can create a spreadsheet
+With **Chapitre > ${Export chapter table}**, you can create a spreadsheet
 that contains a row per chapter. The document can be edited with *Calc*
 and reimported. File name suffix is `_chapterlist_tmp`.
 
@@ -150,7 +150,7 @@ and reimported. File name suffix is `_chapterlist_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Chapter} > ${Export part table}**, you can create a spreadsheet that
+With **Chapitre > ${Export part table}**, you can create a spreadsheet that
 contains a row per part. File name suffix is `_partlist_tmp`.
 
 > **Note**
@@ -165,4 +165,4 @@ contains a row per part. File name suffix is `_partlist_tmp`.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

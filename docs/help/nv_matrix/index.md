@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_matrix
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_matrix
 
 ---
 
@@ -8,16 +8,16 @@
 
 This page refers to the latest
 [nv_matrix](https://github.com/peter88213/nv_matrix/) release. You can
-open it with **${Help} > ${Matrix plugin Online help}**.
+open it with **Aid&e > ${Matrix plugin Online help}**.
 
-The plugin adds a **Matrix** entry to the *novelibre* **${Tools}** menu,
-and a **${Matrix plugin Online help}** entry to the **${Help}** menu. The
+The plugin adds a **Matrix** entry to the *novelibre* **Outils** menu,
+and a **${Matrix plugin Online help}** entry to the **Aid&e** menu. The
 Toolbar gets a ![Matrix](images/matrix.png) button.
 
 ## Start the matrix manager
 
 -   Open the matrix manager either from the main menu: 
-    **${Tools} > ${Matrix}**,
+    **Outils > ${Matrix}**,
 -   or via the ![Matrix](images/matrix.png) button in the toolbar.
 
 ## Hovertips
@@ -56,4 +56,4 @@ window. The states of the checkboxes are retained after closing.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

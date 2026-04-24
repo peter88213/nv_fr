@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_timeline
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_timeline
 
 ---
 
@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
-can open it with **${Help} > ${Timeline plugin Online help}**.
+can open it with **Aid&e > ${Timeline plugin Online help}**.
 
-The plugin adds a **${Timeline}** entry to the *novelibre* **${Tools}** menu,
-a **${Create from Timeline\...}** to the **${File} > ${New}** submenu, and a
-**${Timeline plugin Online Help}** entry to the **${Help}** menu. The Toolbar
+The plugin adds a **${Timeline}** entry to the *novelibre* **Outils** menu,
+a **${Create from Timeline\...}** to the **Fichier > Nouveau** submenu, and a
+**${Timeline plugin Online Help}** entry to the **Aid&e** menu. The Toolbar
 gets a ![Timeline](images/tl.png) button.
 
 ## Command reference
@@ -221,5 +221,5 @@ Just delete your global and local configuration files.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.
     

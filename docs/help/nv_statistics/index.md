@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_statistics
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../../) > [${Online help}](../) > nv_statistics
 
 ---
 
@@ -8,17 +8,17 @@
 
 This page refers to the latest
 [nv_statistics](https://github.com/peter88213/nv_statistics/) release.
-You can open it with **${Help} > ${Project statistics Online help}**.
+You can open it with **Aid&e > ${Project statistics Online help}**.
 
 The plugin adds a **${Project statistics view}** entry to the *novelibre*
-**${Tools}** menu, and a **${Project statistics Online help}** entry to the
-**${Help}** menu. The Toolbar gets a ![Statistics](images/statistics.png)
+**Outils** menu, and a **${Project statistics Online help}** entry to the
+**Aid&e** menu. The Toolbar gets a ![Statistics](images/statistics.png)
 button.
 
 ## Launch the program
 
 -   Open the project statistics viewer from the main menu: 
-    **${Tools} > ${Project statistics view}**,
+    **Outils > ${Project statistics view}**,
 -   or via the ![Statistics](images/statistics.png) button in the
     toolbar.
 
@@ -43,4 +43,4 @@ By double-clicking on a label you can select the related element in the
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

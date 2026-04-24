@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Book} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > ${Book} properties
 
 ---
 
@@ -108,7 +108,7 @@ scenes.
 ### ${Other scene}
 
 When you set the Scene frame to
-**${Other}**, you see the three text boxes whose names you enter here.
+**Autre**, you see the three text boxes whose names you enter here.
 These categories then apply to all sections that represent scenes
 other than "Action" and "Reaction".
 
@@ -201,7 +201,7 @@ Here you can enter a number (without decimal points or separators)
 indicating your writing goal in words. The entry can be completed by
 pressing the `Enter` key.
 
-### ${Starting count}
+### Nombre de départ
 
 Here you can enter a number (without decimal points or separators)
 indicating the word count you want to start from. The entry can be
@@ -210,7 +210,7 @@ completed by pressing the `Enter` key.
 ### ${Set actual wordcount as start}
 
 Click this button to enter your current word count in the 
-**${Starting count}** field.
+**Nombre de départ** field.
 
 ### ${Words written}
 
@@ -226,7 +226,7 @@ This setting is for the tree viewer "${Work phase}" coloring mode.
 -   Sections that are ahead of the selected work phase are green.
 -   Sections that are behind the selected work phase are magenta.
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -253,9 +253,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -270,7 +270,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -313,4 +313,4 @@ recommended image width is 100 to 200 pixels.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

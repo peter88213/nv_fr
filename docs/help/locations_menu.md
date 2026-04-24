@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Locations} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Lieux menu
 
 ---
 
-# ${Locations} menu
+# Lieux menu
 
 **Location operation**
 
-## ${Add}
+## Ajouter
 
 **Add a new location**
 
-With **${Locations} > ${Add}**, you can add a location to the tree.
+With **Lieux > Ajouter**, you can add a location to the tree.
 
 -   If a location is selected, the new location is placed after the
     selected one.
@@ -24,7 +24,7 @@ With **${Locations} > ${Add}**, you can add a location to the tree.
 
 **Import locations from another project**
 
-With **${Locations} > ${Import}**, you can import a selection of locations
+With **Lieux > ${Import}**, you can import a selection of locations
 from another project. First you select an XML file containing the
 location data. Then you select the locations you want to add to the
 current project.
@@ -40,7 +40,7 @@ current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Items} > ${Export location descriptions for editing}**, you can
+With **Objets > ${Export location descriptions for editing}**, you can
 create a text document that contains location descriptions that can be
 edited with *Writer* and reimported. File name suffix is
 `_locations_tmp`.
@@ -49,7 +49,7 @@ edited with *Writer* and reimported. File name suffix is
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Items} > ${Export location table}**, you can create a spreadsheet
+With **Objets > ${Export location table}**, you can create a spreadsheet
 that contains a row per location. The document can be edited with *Calc*
 and reimported. File name suffix is `_loclist_tmp`.
 
@@ -66,7 +66,7 @@ and reimported. File name suffix is `_loclist_tmp`.
 
 **Show an HTML report with locations data**
 
-With **${Locations} > ${Show table in Browser}**, you can create a HTML file
+With **Lieux > ${Show table in Browser}**, you can create a HTML file
 that contains a location table, and launch your system's web browser for
 displaying it.
 
@@ -80,4 +80,4 @@ displaying it.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

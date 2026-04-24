@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Items} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Objets menu
 
 ---
 
-# ${Items} menu
+# Objets menu
 
 **Item operation**
 
-## ${Add}
+## Ajouter
 
 **Add a new item**
 
-With **${Items} > ${Add}**, you can add an item to the tree.
+With **Objets > Ajouter**, you can add an item to the tree.
 
 -   If an item is selected, the new item is placed after the selected
     one.
@@ -24,7 +24,7 @@ With **${Items} > ${Add}**, you can add an item to the tree.
 
 **Import items from another project**
 
-With **${Items} > ${Import}**, you can import a selection of items from
+With **Objets > ${Import}**, you can import a selection of items from
 another project. First you select an XML file containing the item data.
 Then you select the items you want to add to the current project.
 
@@ -39,7 +39,7 @@ Then you select the items you want to add to the current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Items} > ${Export item descriptions for editing}**, you can create a
+With **Objets > ${Export item descriptions for editing}**, you can create a
 text document that contains item descriptions that can be edited with
 *Writer* and reimported. File name suffix is `_items_tmp`.
 
@@ -47,7 +47,7 @@ text document that contains item descriptions that can be edited with
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Items} > ${Export item table}**, you can create a spreadsheet that
+With **Objets > ${Export item table}**, you can create a spreadsheet that
 contains a row per item. The document can be edited with *Calc* and
 reimported. File name suffix is `_itemlist_tmp`.
 
@@ -64,7 +64,7 @@ reimported. File name suffix is `_itemlist_tmp`.
 
 **Show an HTML report with items data**
 
-With **${Items} > ${Show table in Browser}**, you can create a HTML file that
+With **Objets > ${Show table in Browser}**, you can create a HTML file that
 contains an item table, and launch your system's web browser for
 displaying it.
 
@@ -78,4 +78,4 @@ displaying it.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

@@ -1,33 +1,16 @@
-# novelibre Dictionary
-# Copyright (C) 2026 Peter Triesberger
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.55.16\n"
-"POT-Creation-Date: 2026-04-20 09:16:34\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: LANGUAGE\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: novelibre pgettext.py 1.0\n"
+"PO-Revision-Date: 2026-04-24 12:08:19\n"
 
-
-msgid "\"Export\" options"
-msgstr ""
-
-msgid "\"View\" options"
-msgstr ""
 
 msgid "1st Edit"
-msgstr ""
+msgstr "1ère édition"
 
 msgid "1st Level"
 msgstr ""
 
 msgid "2nd Edit"
-msgstr ""
+msgstr "2ème édition"
 
 msgid "2nd Level"
 msgstr ""
@@ -42,13 +25,13 @@ msgid "About novelibre"
 msgstr ""
 
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 msgid "Action canceled by user"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Add Chapter"
 msgstr ""
@@ -81,10 +64,10 @@ msgid "Aka"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "Tout"
 
 msgid "All files"
-msgstr ""
+msgstr "Tous les fichiers"
 
 msgid "Always discard documents after import"
 msgstr ""
@@ -93,7 +76,7 @@ msgid "Append to previous section"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 msgid "Ask before opening exported documents"
 msgstr ""
@@ -108,7 +91,7 @@ msgid "Assign viewpoint to the selected sections"
 msgstr ""
 
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 msgid "Auto number chapters when refreshing the tree"
 msgstr ""
@@ -138,7 +121,7 @@ msgid "Backup options"
 msgstr ""
 
 msgid "Bio"
-msgstr ""
+msgstr "Bio"
 
 msgid "Birth date"
 msgstr ""
@@ -156,7 +139,7 @@ msgid "Broken link fixed"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Cannot assign a viewpoint at this position"
 msgstr ""
@@ -234,7 +217,7 @@ msgid "Change sections to Unused"
 msgstr ""
 
 msgid "Chapter"
-msgstr ""
+msgstr "Chapitre"
 
 msgid "Chapter beginning"
 msgstr ""
@@ -258,7 +241,7 @@ msgid "Chapter_20_beginning"
 msgstr ""
 
 msgid "Chapters"
-msgstr ""
+msgstr "Chapitres"
 
 msgid "Chapters belonging to plot line"
 msgstr ""
@@ -282,7 +265,7 @@ msgid "Characterization"
 msgstr ""
 
 msgid "Characters"
-msgstr ""
+msgstr "Signes"
 
 msgid "Choice"
 msgstr ""
@@ -321,7 +304,7 @@ msgid "Clone of"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "Collapse all"
 msgstr ""
@@ -339,7 +322,7 @@ msgid "Columns"
 msgstr ""
 
 msgid "Conflict"
-msgstr ""
+msgstr "Conflit"
 
 msgid "Convert all section dates to days relative to the reference date?"
 msgstr ""
@@ -357,7 +340,7 @@ msgid "Convert days to dates"
 msgstr ""
 
 msgid "Copy"
-msgstr ""
+msgstr "Copier"
 
 msgid "Copy style sheet"
 msgstr ""
@@ -393,10 +376,10 @@ msgid "Ctrl"
 msgstr ""
 
 msgid "Cut"
-msgstr ""
+msgstr "Couper"
 
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgid "Date information is missing"
 msgstr ""
@@ -426,7 +409,7 @@ msgid "Del"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 msgid "Delete file?"
 msgstr ""
@@ -438,13 +421,13 @@ msgid "Delete {}?"
 msgstr ""
 
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 msgid "Detach/Dock Properties"
 msgstr ""
 
 msgid "Dilemma"
-msgstr ""
+msgstr "Dilemma"
 
 msgid "Discard"
 msgstr ""
@@ -477,7 +460,7 @@ msgid "Do not auto-number this part"
 msgstr ""
 
 msgid "Document"
-msgstr ""
+msgstr "Document"
 
 msgid "Document language"
 msgstr ""
@@ -486,13 +469,13 @@ msgid "Document template is set"
 msgstr ""
 
 msgid "Done"
-msgstr ""
+msgstr "Terminé"
 
 msgid "Down"
 msgstr ""
 
 msgid "Draft"
-msgstr ""
+msgstr "Brouillon"
 
 msgid "Duration"
 msgstr ""
@@ -516,7 +499,7 @@ msgid "Epigraph_20_source"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortir"
 
 msgid "Expand all"
 msgstr ""
@@ -606,7 +589,7 @@ msgid "Field names"
 msgstr ""
 
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 msgid "File already exists"
 msgstr ""
@@ -639,7 +622,7 @@ msgid "Forward"
 msgstr ""
 
 msgid "Full name"
-msgstr ""
+msgstr "Nom complet"
 
 msgid "Generate"
 msgstr ""
@@ -651,10 +634,10 @@ msgid "Go to section"
 msgstr ""
 
 msgid "Goal"
-msgstr ""
+msgstr "Objectif"
 
 msgid "Goals"
-msgstr ""
+msgstr "Objectifs"
 
 msgid "HTML Plot table"
 msgstr ""
@@ -669,7 +652,7 @@ msgid "Heading_20_3_20_invisible"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Aid&e"
 
 msgid "Highlight related sections"
 msgstr ""
@@ -711,7 +694,7 @@ msgid "Import plot lines"
 msgstr ""
 
 msgid "Importance"
-msgstr ""
+msgstr "Importance"
 
 msgid "Input rejected"
 msgstr ""
@@ -741,7 +724,7 @@ msgid "Item table"
 msgstr ""
 
 msgid "Items"
-msgstr ""
+msgstr "Objets"
 
 msgid "Join with previous"
 msgstr ""
@@ -765,7 +748,7 @@ msgid "Left"
 msgstr ""
 
 msgid "Links"
-msgstr ""
+msgstr "Liens"
 
 msgid "Location"
 msgstr ""
@@ -777,7 +760,7 @@ msgid "Location table"
 msgstr ""
 
 msgid "Locations"
-msgstr ""
+msgstr "Lieux"
 
 msgid "Lock"
 msgstr ""
@@ -837,31 +820,31 @@ msgid "N"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 msgid "Never"
 msgstr ""
 
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 msgid "New Chapter"
-msgstr ""
+msgstr "Nouveau chapitre"
 
 msgid "New Character"
 msgstr ""
 
 msgid "New Item"
-msgstr ""
+msgstr "Nouvel élément"
 
 msgid "New Location"
 msgstr ""
 
 msgid "New Note"
-msgstr ""
+msgstr "Nouvelle note"
 
 msgid "New Part"
-msgstr ""
+msgstr "Nouvelle partie"
 
 msgid "New Plot line"
 msgstr ""
@@ -879,7 +862,7 @@ msgid "News about novelibre"
 msgstr ""
 
 msgid "Next"
-msgstr ""
+msgstr "Préc"
 
 msgid "Next section begins in"
 msgstr ""
@@ -945,7 +928,7 @@ msgid "No valid xml root element found in file"
 msgstr ""
 
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 msgid "Normal"
 msgstr ""
@@ -963,7 +946,7 @@ msgid "Not an integer."
 msgstr ""
 
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 msgid "Notes on the selected plot line"
 msgstr ""
@@ -990,7 +973,7 @@ msgid "ODS Plot table"
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Older than the project file"
 msgstr ""
@@ -999,7 +982,7 @@ msgid "Online help"
 msgstr ""
 
 msgid "Open"
-msgstr ""
+msgstr "Ouvrir"
 
 msgid "Open Project folder"
 msgstr ""
@@ -1038,16 +1021,16 @@ msgid "Options"
 msgstr ""
 
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 msgid "Other scene"
 msgstr ""
 
 msgid "Outcome"
-msgstr ""
+msgstr "Issue"
 
 msgid "Outline"
-msgstr ""
+msgstr "Plan"
 
 msgid "Overwrite"
 msgstr ""
@@ -1080,7 +1063,7 @@ msgid "Parts"
 msgstr ""
 
 msgid "Paste"
-msgstr ""
+msgstr "Coller"
 
 msgid "Peak emotional moment"
 msgstr ""
@@ -1113,7 +1096,7 @@ msgid "Please wait ..."
 msgstr ""
 
 msgid "Plot"
-msgstr ""
+msgstr "Intrigue"
 
 msgid "Plot grid"
 msgstr ""
@@ -1146,7 +1129,7 @@ msgid "Position"
 msgstr ""
 
 msgid "Previous"
-msgstr ""
+msgstr "Précédent"
 
 msgid "Previous section ends:"
 msgstr ""
@@ -1170,7 +1153,7 @@ msgid "R"
 msgstr ""
 
 msgid "Reaction"
-msgstr ""
+msgstr "Réaction"
 
 msgid "Reference date"
 msgstr ""
@@ -1185,7 +1168,7 @@ msgid "Relationships"
 msgstr ""
 
 msgid "Reload"
-msgstr ""
+msgstr "Recharger"
 
 msgid "Remove"
 msgstr ""
@@ -1215,7 +1198,7 @@ msgid "Remove this chapter?"
 msgstr ""
 
 msgid "Required"
-msgstr ""
+msgstr "Obligatoire"
 
 msgid "Reset Highlighting"
 msgstr ""
@@ -1236,7 +1219,7 @@ msgid "Right"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 msgid "Save and lock?"
 msgstr ""
@@ -1248,10 +1231,10 @@ msgid "Save changes?"
 msgstr ""
 
 msgid "Scene"
-msgstr ""
+msgstr "Scène"
 
 msgid "Section"
-msgstr ""
+msgstr "Section"
 
 msgid "Section descriptions"
 msgstr ""
@@ -1311,7 +1294,7 @@ msgid "Select viewpoint"
 msgstr ""
 
 msgid "Set Status"
-msgstr ""
+msgstr "Définir le status"
 
 msgid "Set Type"
 msgstr ""
@@ -1326,7 +1309,7 @@ msgid "Shift"
 msgstr ""
 
 msgid "Short name"
-msgstr ""
+msgstr "Nom abrégé"
 
 msgid "Show Book"
 msgstr ""
@@ -1380,10 +1363,10 @@ msgid "Start"
 msgstr ""
 
 msgid "Starting count"
-msgstr ""
+msgstr "Nombre de départ"
 
 msgid "Status"
-msgstr ""
+msgstr "État"
 
 msgid "Story structure"
 msgstr ""
@@ -1395,13 +1378,13 @@ msgid "Style sheet copied into the project folder."
 msgstr ""
 
 msgid "Tag"
-msgstr ""
+msgstr "Étiquette"
 
 msgid "Tagged manuscript for proofing"
 msgstr ""
 
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 msgid "Text"
 msgstr ""
@@ -1470,13 +1453,13 @@ msgid "This section has no time set"
 msgstr ""
 
 msgid "Time"
-msgstr ""
+msgstr "Heure"
 
 msgid "Time table"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 msgid "Toggle Properties"
 msgstr ""
@@ -1491,10 +1474,10 @@ msgid "Too small"
 msgstr ""
 
 msgid "Tools"
-msgstr ""
+msgstr "Outils"
 
 msgid "Trash"
-msgstr ""
+msgstr "Corbeille"
 
 msgid "Undefined"
 msgstr ""
@@ -1548,16 +1531,16 @@ msgid "Used"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 msgid "View"
-msgstr ""
+msgstr "Affichage"
 
 msgid "Viewpoint"
-msgstr ""
+msgstr "Point de vue"
 
 msgid "Words"
-msgstr ""
+msgstr "Mots"
 
 msgid "Words to write"
 msgstr ""
@@ -1611,6 +1594,12 @@ msgid "YYYY-MM-DD"
 msgstr ""
 
 msgid "Zipped novelibre project"
+msgstr ""
+
+msgid "\"Export\" options"
+msgstr ""
+
+msgid "\"View\" options"
 msgstr ""
 
 msgid "and"

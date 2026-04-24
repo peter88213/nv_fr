@@ -1,20 +1,20 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${View} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Affichage menu
 
 ---
 
-# ${View} menu
+# Affichage menu
 
 **Control the display**
 
 
 ## ${Highlight tagged elements}
 
-With **${View} > ${Highlight tagged elements}**,
+With **Affichage > ${Highlight tagged elements}**,
 you can highlight elements with a specified tag. This opens a tag selection dialog.
 
 ## ${Reset Highlighting}
 
-With **${View} > ${Reset Highlighting}**,
+With **Affichage > ${Reset Highlighting}**,
 you can reset the highlighting of tree elements.
 
 ---
@@ -22,41 +22,41 @@ you can reset the highlighting of tree elements.
 
 **Go to the "${Book}" branch and expand it**
 
-With **${View} > ${Show Book}**, you can select and open the "${Book}" branch.
+With **Affichage > ${Show Book}**, you can select and open the "${Book}" branch.
 
 ## ${Show Characters}
 
-**Go to the "${Characters}" branch and expand it**
+**Go to the "Signes" branch and expand it**
 
-With **${View} > ${Show Characters}**, you can select and open the
-"${Characters}" branch.
+With **Affichage > ${Show Characters}**, you can select and open the
+"Signes" branch.
 
 ## ${Show Locations}
 
 **Go to the "Locations" branch and expand it**
 
-With **${View} > ${Show Locations}**, you can select and open the
-"${Locations}" branch.
+With **Affichage > ${Show Locations}**, you can select and open the
+"Lieux" branch.
 
 ## ${Show Items}
 
-**Go to the "${Items}" branch and expand it**
+**Go to the "Objets" branch and expand it**
 
-With **${View} > ${Show Items}**, you can select and open the "${Items}"
+With **Affichage > ${Show Items}**, you can select and open the "Objets"
 branch.
 
 ## ${Show Plot lines}
 
 **Go to the "${Plot lines}" branch and expand it**
 
-With **${View} > ${Show Plot lines}**, you can select and open the 
+With **Affichage > ${Show Plot lines}**, you can select and open the 
 "${Plot lines}" branch.
 
 ## ${Show Project notes}
 
 **Go to the "${Project notes}" branch and expand it**
 
-With **${View} > ${Show Project notes}**, you can select and open the 
+With **Affichage > ${Show Project notes}**, you can select and open the 
 "${Project notes}" branch.
 
 ---
@@ -65,34 +65,34 @@ With **${View} > ${Show Project notes}**, you can select and open the
 
 **Hide the sections**
 
-With **${View} > ${Chapter level}** or `${Ctrl}`-`Alt`-`C`, you can collapse the
+With **Affichage > ${Chapter level}** or `${Ctrl}`-`Alt`-`C`, you can collapse the
 tree, so that only parts and chapters are visible.
 
 ## ${Expand all}
 
 **Show the whole tree**
 
-With **${View} > ${Expand all}**, you can expand the whole tree.
+With **Affichage > ${Expand all}**, you can expand the whole tree.
 
 ## ${Collapse all}
 
 **Hide child elements**
 
-With **${View} > ${Collapse all}**, you can hide all tree elements except the
+With **Affichage > ${Collapse all}**, you can hide all tree elements except the
 main categories.
 
 ## ${Expand selected}
 
 **Show a whole branch**
 
-With **${View} > ${Expand selected}**, you can expand a selected tree
+With **Affichage > ${Expand selected}**, you can expand a selected tree
 element.
 
 ## ${Collapse selected}
 
 **Hide child elements**
 
-With **${View} > ${Collapse selected}**, you can collapse a selected branch.
+With **Affichage > ${Collapse selected}**, you can collapse a selected branch.
 
 ---
 
@@ -100,7 +100,7 @@ With **${View} > ${Collapse selected}**, you can collapse a selected branch.
 
 **Show/hide the novel text**
 
-With **${View} > ${Toggle Text viewer}** or `${Ctrl}`-`T`, you can open 
+With **Affichage > ${Toggle Text viewer}** or `${Ctrl}`-`T`, you can open 
 or close the text viewer window, showing part/chapter/section
 titles and section content.
 
@@ -113,7 +113,7 @@ titles and section content.
 
 **Show/hide the selected element's properties**
 
-With **${View} > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, you can open or
+With **Affichage > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, you can open or
 close the element properties window.
 
 > **Hint**
@@ -126,7 +126,7 @@ close the element properties window.
 **Show the selected element's properties either in the main window or in
 its own window**
 
-With **${View} > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`, you can
+With **Affichage > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`, you can
 detach or dock the element properties window .
 
 > **Hint**
@@ -137,7 +137,7 @@ detach or dock the element properties window .
 
 **Project independent program settings**
 
-With **${View} > ${Options}**, you can open a dialog for settings concerning
+With **Affichage > ${Options}**, you can open a dialog for settings concerning
 the display.
 
 ![novelibre screenshot](images/view_menu02.png)
@@ -147,14 +147,14 @@ the display.
 **Set criteria according to which normal sections are colored in the
 tree**
 
-#### ${None}
+#### Aucun
 
 ${Normal} sections are black on white by default.
 
-#### ${Status}
+#### État
 
 ${Normal} sections are colored according to their completion status
-(*${Outline}*, *${Draft}*, *${1st Edit}*, *${2nd Edit}*, or *${Done}*).
+(*Plan*, *Brouillon*, *1ère édition*, *2ème édition*, or *Terminé*).
 
 #### ${Work phase}
 
@@ -179,11 +179,11 @@ is ticked, 24x24 icons are used after the next program startup.
 -   From top to bottom in the list means from left to right in the tree.
 -   Just drag and drop to change the order.
 
-Click the **${Apply}** button to apply changes.
+Click the **Appliquer** button to apply changes.
 
 ---
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

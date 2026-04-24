@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Plot point} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > ${Plot point} properties
 
 ---
 
@@ -20,7 +20,7 @@ clicked anywhere outside the text input field.
 ## Assigned section
 
 You can connect the plot point to a section in the book. The label below
-"${Section}" displays the section title.
+"Section" displays the section title.
 
 ### ${Assign section}
 
@@ -50,7 +50,7 @@ is opened and its properties are displayed.
 > You can go back to the initially selected plot point with 
 > ![${Back}](images/goBack.png).
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -77,9 +77,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -94,7 +94,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -133,13 +133,13 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **${Previous}** lets you navigate to the previous plot point in the
+-   **Précédent** lets you navigate to the previous plot point in the
     tree.
--   **${Next}** lets you navigate to the next plot point in the tree.
+-   **Préc** lets you navigate to the next plot point in the tree.
 
 ---
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

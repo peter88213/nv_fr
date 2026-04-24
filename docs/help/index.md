@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > ${Online help}
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > ${Online help}
 
 ---
 
@@ -6,7 +6,7 @@
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
-You can open it with **${Help} > ${Online user guide}**.
+You can open it with **Aid&e > ${Online user guide}**.
 
 Here you will find the most important help pages from the novelibre user manual. 
 More information on installing and uninstalling novelibre, interesting details 
@@ -15,8 +15,8 @@ on the user concept, and "How To" guides can be found in the
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
-There is also a [wiki](https://github.com/peter88213/nv_xx/wiki) 
-where users can publish further instructions, tips, and tutorials in xxx.
+There is also a [wiki](https://github.com/peter88213/nv_fr/wiki) 
+where users can publish further instructions, tips, and tutorials in French.
 
 
 > **Note**
@@ -34,19 +34,19 @@ where users can publish further instructions, tips, and tutorials in xxx.
 
 ## Command reference
 
-- [${File} menu](file_menu.md)
-- [${View} menu](view_menu.md)
-- [${Chapter} menu](chapter_menu.md)
-- [${Section} menu](section_menu.md)
-- [${Characters} menu](characters_menu.md)
-- [${Locations} menu](locations_menu.md)
-- [${Items} menu](items_menu.md)
-- [${Plot} menu](plot_menu.md)
+- [Fichier menu](file_menu.md)
+- [Affichage menu](view_menu.md)
+- [Chapitre menu](chapter_menu.md)
+- [Section menu](section_menu.md)
+- [Signes menu](characters_menu.md)
+- [Lieux menu](locations_menu.md)
+- [Objets menu](items_menu.md)
+- [Intrigue menu](plot_menu.md)
 - [${Project notes} menu](project_notes_menu.md)
 - [${Import} menu](import_menu.md)
 - [${Export} menu](export_menu.md)
-- [${Tools} menu](tools_menu.md)
-- [${Help} menu](help_menu.md)
+- [Outils menu](tools_menu.md)
+- [Aid&e menu](help_menu.md)
 - [Tree view context menu](tree_context_menu.md)
 - [The toolbar](toolbar.md)
 
@@ -54,9 +54,9 @@ where users can publish further instructions, tips, and tutorials in xxx.
 ## Properties reference
 
 - [${Book} properties](book_view.md)
-- [${Chapter}/${Part} properties](chapter_view.md)
+- [Chapitre/${Part} properties](chapter_view.md)
 - [${Stage} properties](stage_view.md)
-- [${Section} properties](section_view.md)
+- [Section properties](section_view.md)
 - [${Character} properties](character_view.md)
 - [${Location}/${Item} properties](world_view.md)
 - [${Plot line} properties](plotline_view.md)
@@ -85,4 +85,4 @@ where users can publish further instructions, tips, and tutorials in xxx.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

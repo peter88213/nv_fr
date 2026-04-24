@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > The Workspace
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > The Workspace
 
 ---
 
@@ -16,8 +16,8 @@ The project tree in the left pane shows the organization of the project.
 
 -  The tree elements are color-coded according to the section type.
    *${Normal}* type sections are highlighted according to the selected
-   coloring mode (see *${Options}* in the ${View} menu).
--  The order of the columns can be changed (see *${Options}* in the ${View} menu).
+   coloring mode (see *${Options}* in the Affichage menu).
+-  The order of the columns can be changed (see *${Options}* in the Affichage menu).
 -  Right-clicking on a tree element opens a context menu with several options.
 -  The type of chapters and sections, as well as the completion status
    of the sections are color coded and can be changed via context menu.
@@ -28,7 +28,7 @@ The project tree in the left pane shows the organization of the project.
 
 -   The **${Book}** branch contains the parts, chapters, and sections that
     belong to the novel manuscript.
--   The **${Characters}/${Locations}/${Items}** branches contain descriptions of
+-   The **Signes/Lieux/Objets** branches contain descriptions of
     the story world's elements that can be associated with the book's sections.
 -   The **${Plot lines}** branch contains the plot lines and plot points.
 -   The **${Project notes}** branch contains project notes.
@@ -108,7 +108,7 @@ The **Text viewer** in the middle pane shows the part/chapter/section
 contents with their titles as headings.
 
 -   You can open or close the middle pane with the Text viewer with
-    **${View} > ${Toggle Text viewer}**, or `${Ctrl}`-`T`, or clicking on
+    **Affichage > ${Toggle Text viewer}**, or `${Ctrl}`-`T`, or clicking on
     ![Toggle Text viewer](images/viewer.png).
 -   On opening, the text viewer shows the text where the tree is selected.
 -   When changing the tree selection, the text moves along.
@@ -128,11 +128,11 @@ metadata of the element selected in the project tree.
 
 -   The project settings can be made in the *Book* properties view.
 -   You can open or close the element properties window with
-    **${View} > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, or clicking on 
+    **Affichage > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, or clicking on 
     ![Toggle Properties](images/properties.png).
 -   On opening, the windows shows the editable properties of the selected element.
 -   You can detach or dock the element properties window with 
-    **${View} > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`.
+    **Affichage > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`.
 -   On closing the detached window, the properties are docked again.
 
 On large screens, you can arrange *novelibre* and *Writer* with detached windows.
@@ -178,4 +178,4 @@ If the project is locked, the footer bar is displayed in reversed colors.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

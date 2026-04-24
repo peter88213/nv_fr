@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Project notes} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > ${Project notes} menu
 
 ---
 
@@ -6,11 +6,11 @@
 
 **Project notes operation**
 
-## ${Add}
+## Ajouter
 
 **Add a new project note**
 
-With **${Project notes} > ${Add}**, you can add a project note to the tree.
+With **${Project notes} > Ajouter**, you can add a project note to the tree.
 
 -   If a project note is selected, the new project note is placed after
     the selected one.
@@ -39,4 +39,4 @@ your system's web browser for displaying it.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

@@ -2,8 +2,8 @@
 
 Version @release
 
-Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/nv_xx
+Copyright (c) Peter Triesberger
+For further information see https://github.com/peter88213/nv_fr
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import locale
@@ -15,7 +15,7 @@ import sys
 import zipfile
 from tkinter import messagebox
 
-PLUGIN = 'nv_xx.py'
+PLUGIN = 'nv_fr.py'
 VERSION = '@release'
 
 pyz = os.path.dirname(__file__)

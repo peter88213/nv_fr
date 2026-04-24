@@ -1,4 +1,4 @@
-[Home Page](https://github.com/peter88213/novelibre) > xxx pages
+[Home Page](https://github.com/peter88213/novelibre) > French pages
 
 ---
 
@@ -25,7 +25,7 @@ This is the manuscript to work on. *novelibre* generated it and passed it to Lib
 ## Links
 
 - [**Application download** page (English)](https://github.com/peter88213/novelibre) 
-- [**Language package download** page](https://github.com/peter88213/nv_xx)
+- [**Language package download** page](https://github.com/peter88213/nv_fr)
 - [Online help](help) 
 - [Give feedback or ask a question (English)](https://github.com/peter88213/novelibre/discussions)
 
@@ -33,7 +33,7 @@ This is the manuscript to work on. *novelibre* generated it and passed it to Lib
 
 ## Credits
 
-The xxx translations of the user interface are provided by .
+The French translations of the user interface are provided by .
 
 ---
 

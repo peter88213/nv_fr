@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > The toolbar
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > The toolbar
 
 ---
 
@@ -18,26 +18,26 @@ Same as `Alt`-`Right`.
 ---
 
 ![${Show Book}](images/viewBook.png) Go to the "${Book}" branch and expand
-it. Same as **${View} > ${Show Book}**.
+it. Same as **Affichage > ${Show Book}**.
 
-![${Show Characters}](images/viewCharacters.png) Go to the "${Characters}"
-branch and expand it. Same as **${View} > ${Show Characters}**.
+![${Show Characters}](images/viewCharacters.png) Go to the "Signes"
+branch and expand it. Same as **Affichage > ${Show Characters}**.
 
-![${Show Locations}](images/viewLocations.png) Go to the "${Locations}"
-branch and expand it. Same as **${View} > ${Show Locations}**.
+![${Show Locations}](images/viewLocations.png) Go to the "Lieux"
+branch and expand it. Same as **Affichage > ${Show Locations}**.
 
-![${Show Items}](images/viewItems.png) Go to the "${Items}" branch and
-expand it. Same as **${View} > ${Show Items}**.
+![${Show Items}](images/viewItems.png) Go to the "Objets" branch and
+expand it. Same as **Affichage > ${Show Items}**.
 
 ![${Show Plot lines}](images/viewArcs.png) Go to the "${Plot lines}" branch
-and expand it. Same as **${View} > ${Show Plot lines}**.
+and expand it. Same as **Affichage > ${Show Plot lines}**.
 
 ![${Show Project notes}](images/viewProjectnotes.png) Go to the "${Project notes}" 
-branch and expand it. Same as **${View} > ${Show Project notes}**.
+branch and expand it. Same as **Affichage > ${Show Project notes}**.
 
 ---
 
-![${Save}](images/save.png) Save the project. Same as **${File} > ${Save}** or
+![Enregistrer](images/save.png) Save the project. Same as **Fichier > Enregistrer** or
 `${Ctrl}`-`S`.
 
 ![${Lock}/${Unlock}](images/lock.png) Toggle the lock status of the project.
@@ -51,7 +51,7 @@ confirmation for opening the document.
 
 ---
 
-![${Add}](images/add.png) Add element. Same as `${Ctrl}`-`N`.
+![Ajouter](images/add.png) Add element. Same as `${Ctrl}`-`N`.
 
 ![${Add child}](images/addChild.png) Add child element. Same as
 `${Ctrl}`-`Alt`-`N`.
@@ -59,17 +59,17 @@ confirmation for opening the document.
 ![${Add parent}](images/addParent.png) Add element on the parent's level.
 Same as `${Ctrl}`-`Alt`-`${Shift}`-`N`.
 
-![${Delete}](images/remove.png) Delete selected elements. Same as `${Del}`.
+![Supprimer](images/remove.png) Delete selected elements. Same as `${Del}`.
 
 ---
 
-![${Cut}](images/cut.png) Move the selected element from the tree to the
+![Couper](images/cut.png) Move the selected element from the tree to the
 clipboard. Same as `${Ctrl}`-`X`.
 
-![${Copy}](images/copy.png) Copy the selected element to the clipboard.
+![Copier](images/copy.png) Copy the selected element to the clipboard.
 Same as `${Ctrl}`-`C`.
 
-![${Paste}](images/paste.png) Paste the element stored in the clipboard to
+![Coller](images/paste.png) Paste the element stored in the clipboard to
 the tree. Same as `${Ctrl}`-`V`.
 
 You can copy and paste the following tree elements via the system
@@ -103,23 +103,23 @@ clipboard:
 
 ![${Highlight tagged elements}](images/tag.png) 
 Highlight elements with a specified tag. This opens a tag selection dialog.
-Same as **${View} > ${Highlight tagged elements}**.
+Same as **Affichage > ${Highlight tagged elements}**.
 
 ![${Select highlighted elements}](images/select.png) 
 Select all highlighted elements in the project tree for further action.
 
 ![${Reset highlighting}](images/reset_highlight.png) Reset the highlighting of tree elements.
-Same as **${View} > ${Reset Highlighting}**.
+Same as **Affichage > ${Reset Highlighting}**.
 
 While tree elements are highlighted, the criterion is displayed on the right of the reset button.
 
 ---
 
 ![${Toggle Text viewer}](images/viewer.png) Toggle Text viewer. Same as
-**${View} > ${Toggle Text viewer}** or `${Ctrl}`-`T`.
+**Affichage > ${Toggle Text viewer}** or `${Ctrl}`-`T`.
 
 ![${Toggle Properties}](images/properties.png) Toggle Properties. Same as
-**${View} > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`.
+**Affichage > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`.
 
 
 ---
@@ -127,4 +127,4 @@ While tree elements are highlighted, the criterion is displayed on the right of 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

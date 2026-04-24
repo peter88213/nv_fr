@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Export} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > ${Export} menu
 
 ---
 
@@ -230,8 +230,8 @@ elements to another projects.
 > **Hint**
 > 
 > To import XML data files from another project, use the **${Import}**
-> command in the **${Characters}**, **${Locations}**, **${Items}**, 
-> or **${Plot}** menu.
+> command in the **Signes**, **Lieux**, **Objets**, 
+> or **Intrigue** menu.
 
 ---
 
@@ -281,4 +281,4 @@ styles.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

@@ -11,7 +11,7 @@ help_dir = '../docs/help'
 index_page = f'{help_dir}/index.md'
 json_dict = '../dictionary/msg_dict.json'
 page_link_pattern = re.compile(r'- \[(.*?)\]\((.*?)\)')
-page_template = '''[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > $Heading
+page_template = '''[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > $Heading
 
 ---
 
@@ -22,7 +22,7 @@ page_template = '''[novelibre ${Home page}](https://github.com/peter88213/noveli
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.
 
 '''
 

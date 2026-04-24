@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Characters} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Signes menu
 
 ---
 
-# ${Characters} menu
+# Signes menu
 
 **Character operation**
 
-## ${Add}
+## Ajouter
 
 **Add a new character**
 
-With **${Characters} > ${Add}** you can add a character to the tree.
+With **Signes > Ajouter** you can add a character to the tree.
 
 -   If a character is selected, the new character is placed after the
     selected one.
@@ -21,11 +21,11 @@ With **${Characters} > ${Add}** you can add a character to the tree.
 
 ---
 
-## ${Set Status}
+## Définir le status
 
 **Set the character status**
 
-With **${Characters} > ${Set Status}**, you can make the selected character
+With **Signes > Définir le status**, you can make the selected character
 *major* or *minor*. Major characters are highlighted in the tree view.
 
 > **Note**
@@ -40,7 +40,7 @@ With **${Characters} > ${Set Status}**, you can make the selected character
 
 **Import characters from another project**
 
-With **${Characters} > ${Import}**, you can import a selection of characters
+With **Signes > ${Import}**, you can import a selection of characters
 from another project. First you select an XML file containing the
 character data. Then you select the characters you want to add to the
 current project.
@@ -56,7 +56,7 @@ current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Characters} > ${Export character descriptions for editing}**, you
+With **Signes > ${Export character descriptions for editing}**, you
 can create a text document that contains character descriptions, bio,
 goals, and notes that can be edited in Office Writer and reimported.
 File name suffix is `_characters_tmp`.
@@ -65,7 +65,7 @@ File name suffix is `_characters_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Characters} > ${Export character table}**, you can create a
+With **Signes > ${Export character table}**, you can create a
 spreadsheet that contains a row per character. The document can be
 edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
@@ -82,7 +82,7 @@ edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
 **Show an HTML report with characters data**
 
-With **${Characters} > ${Show table in Browser}**, you can create a HTML file
+With **Signes > ${Show table in Browser}**, you can create a HTML file
 that contains a character table, and launch your system's web browser
 for displaying it.
 
@@ -96,4 +96,4 @@ for displaying it.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.
