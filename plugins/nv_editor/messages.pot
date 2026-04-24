@@ -1,0 +1,183 @@
+# nv_editor Dictionary
+# Copyright (C) 2026 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.10.2\n"
+"POT-Creation-Date: 2026-03-29 13:38:54\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Apply changes"
+msgstr ""
+
+msgid "Apply section changes?"
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Blue mode"
+msgstr ""
+
+msgid "Bright mode"
+msgstr ""
+
+msgid "Cannot apply section changes as long as the project is locked."
+msgstr ""
+
+msgid "Cannot create section"
+msgstr ""
+
+msgid "Cannot edit sections"
+msgstr ""
+
+msgid "Cannot split the section"
+msgstr ""
+
+msgid "Cannot split the section at the cursor position"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Dark mode"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Editor plugin Online help"
+msgstr ""
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Invalid changes"
+msgstr ""
+
+msgid "Light mode"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Move the text from the cursor position to the end into a new section?"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Online help"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "PgUp"
+msgstr ""
+
+msgid "Plain"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Section Editor"
+msgstr ""
+
+msgid "Split"
+msgstr ""
+
+msgid "Strong emphasis"
+msgstr ""
+
+msgid "The project is locked"
+msgstr ""
+
+msgid "The result would not be well-formed XML"
+msgstr ""
+
+msgid "Unlock and apply changes?"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""

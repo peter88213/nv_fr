@@ -1,0 +1,207 @@
+# nv_snapshots Dictionary
+# Copyright (C) 2026 Peter Triesberger
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 5.3.1\n"
+"POT-Creation-Date: 2026-03-19 21:12:52\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
+
+
+msgid "1st Edit"
+msgstr ""
+
+msgid "2nd Edit"
+msgstr ""
+
+msgid "Action canceled by user"
+msgstr ""
+
+msgid "Auto-generated snapshot"
+msgstr ""
+
+msgid "Before reverting to {} \n\"{}\""
+msgstr ""
+
+msgid "Bio"
+msgstr ""
+
+msgid "Can not remove snapshot"
+msgstr ""
+
+msgid "Can not restore snapshot"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Chapter descriptions"
+msgstr ""
+
+msgid "Character descriptions"
+msgstr ""
+
+msgid "Characterization"
+msgstr ""
+
+msgid "Clean up Snapshot folder"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Del"
+msgstr ""
+
+msgid "Delete the selected snapshot?"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "File type is not supported"
+msgstr ""
+
+msgid "Goals"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Item descriptions"
+msgstr ""
+
+msgid "Location descriptions"
+msgstr ""
+
+msgid "Major Character"
+msgstr ""
+
+msgid "Manuscript"
+msgstr ""
+
+msgid "Minor Character"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Online help"
+msgstr ""
+
+msgid "Open Snapshot folder"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Part descriptions"
+msgstr ""
+
+msgid "Peak emotional moment"
+msgstr ""
+
+msgid "Plot grid"
+msgstr ""
+
+msgid "Plot line descriptions"
+msgstr ""
+
+msgid "Plot progress"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Revert"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save changes?"
+msgstr ""
+
+msgid "Section descriptions"
+msgstr ""
+
+msgid "Snapshot"
+msgstr ""
+
+msgid "Snapshot already exists"
+msgstr ""
+
+msgid "Snapshot description"
+msgstr ""
+
+msgid "Snapshot failed"
+msgstr ""
+
+msgid "Snapshot generated"
+msgstr ""
+
+msgid "Snapshot restored"
+msgstr ""
+
+msgid "Snapshots"
+msgstr ""
+
+msgid "Snapshots plugin Online help"
+msgstr ""
+
+msgid "Story structure"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Undefined"
+msgstr ""
+
+msgid "With unused"
+msgstr ""
+
+msgid "Words"
+msgstr ""
+
+msgid "Work phase"
+msgstr ""
+
+msgid "World building"
+msgstr ""
+
+msgid "XML data files"
+msgstr ""
+
+msgid "https://peter88213.github.io/nvhelp-en"
+msgstr ""
