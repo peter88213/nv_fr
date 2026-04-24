@@ -20,7 +20,7 @@ This repository includes
 
 ## Requirements
 
-- [novelibre](https://github.com/peter88213/novelibre/) version $ApiVersion+
+- [novelibre](https://github.com/peter88213/novelibre/) version 5.43+
 
 ## Download and install
 
