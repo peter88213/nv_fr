@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_updater](https://github.com/peter88213/nv_updater/) release. You can
-open it with **Aid&e > ${Update checker Online help}**.
+open it with **Aide > ${Update checker Online help}**.
 
 The plugin adds a **${Check for updates}** entry to the *novelibre*
 **Outils** menu, and an **${Update checker Online help}** entry to the
-**Aid&e** menu.
+**Aide** menu.
 
 ## Start the update checker
 

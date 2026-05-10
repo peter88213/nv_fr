@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
-can open it with **Aid&e > ${Timeline plugin Online help}**.
+can open it with **Aide > ${Timeline plugin Online help}**.
 
 The plugin adds a **${Timeline}** entry to the *novelibre* **Outils** menu,
 a **${Create from Timeline\...}** to the **Fichier > Nouveau** submenu, and a
-**${Timeline plugin Online Help}** entry to the **Aid&e** menu. The Toolbar
+**${Timeline plugin Online Help}** entry to the **Aide** menu. The Toolbar
 gets a ![Timeline](images/tl.png) button.
 
 ## Command reference

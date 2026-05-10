@@ -9,7 +9,7 @@
 
 This page refers to the latest
 [nv_progress](https://github.com/peter88213/nv_progress/) release. 
-You can open it with **Aid&e > ${Progress viewer Online help}**.
+You can open it with **Aide > ${Progress viewer Online help}**.
 
 The plugin adds a **${Daily progress log}** entry to the *novelibre*
 **Outils** menu.

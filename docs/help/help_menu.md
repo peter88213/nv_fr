@@ -1,14 +1,14 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Aid&e menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Aide menu
 
 ---
 
-# Aid&e menu
+# Aide menu
 
 **Quick access to the help pages for novelibre and its plugins**
 
 > **Note**
 > 
-> The *Aid&e* menu can be extended by plugins adding links to their
+> The *Aide* menu can be extended by plugins adding links to their
 > specific help pages.
 
 > **Hint**
@@ -17,17 +17,17 @@
 
 ## ${Online help}
 
-With **Aid&e > ${Online help}**, you can launch your system web
+With **Aide > ${Online help}**, you can launch your system web
 browser with the *novelibre* online help URL.
 
 ## ${About novelibre}
 
-With **Aid&e > ${About novelibre}** you get a pop-up window with the
+With **Aide > ${About novelibre}** you get a pop-up window with the
 version number and a legal notice.
 
 ## novelibre ${Home page}
 
-With **Aid&e > novelibre ${Home page}** you can launch your system web
+With **Aide > novelibre ${Home page}** you can launch your system web
 browser with the *novelibre* home page URL.
 
 > **Hint**
@@ -37,7 +37,7 @@ browser with the *novelibre* home page URL.
 
 ## ${News about novelibre}
 
-With **Aid&e > ${News about novelibre}** you can launch your system web
+With **Aide > ${News about novelibre}** you can launch your system web
 browser with the URL of 
 [What's new?](https://github.com/peter88213/novelibre/discussions/1?sort=new) in
 the discussion forum. There you will find information about the major

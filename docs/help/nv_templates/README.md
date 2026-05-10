@@ -8,14 +8,14 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **Aid&e > ${Templates plugin Online help}**.
+can open it with **Aide > ${Templates plugin Online help}**.
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
 
 The plugin adds a **${Story Templates}** entry to the *novelibre* **Outils**
 menu, a **${${Create from Template\...}** entry to the **File} > Nouveau**
-submenu, and a **${Template plugin Online Help}** entry to the **Aid&e**
+submenu, and a **${Template plugin Online Help}** entry to the **Aide**
 menu.
 
 

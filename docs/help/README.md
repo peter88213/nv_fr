@@ -6,7 +6,7 @@
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
-You can open it with **Aid&e > ${Online help}**.
+You can open it with **Aide > ${Online help}**.
 
 Here you will find the most important help pages from the novelibre user manual. 
 More information on installing and uninstalling novelibre, interesting details 
@@ -46,7 +46,7 @@ where users can publish further instructions, tips, and tutorials in French.
 - [${Import} menu](import_menu.md)
 - [${Export} menu](export_menu.md)
 - [Outils menu](tools_menu.md)
-- [Aid&e menu](help_menu.md)
+- [Aide menu](help_menu.md)
 - [Tree view context menu](tree_context_menu.md)
 - [The toolbar](toolbar.md)
 

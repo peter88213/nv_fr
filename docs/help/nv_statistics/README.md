@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_statistics](https://github.com/peter88213/nv_statistics/) release.
-You can open it with **Aid&e > ${Project statistics Online help}**.
+You can open it with **Aide > ${Project statistics Online help}**.
 
 The plugin adds a **${Project statistics view}** entry to the *novelibre*
 **Outils** menu, and a **${Project statistics Online help}** entry to the
-**Aid&e** menu. The Toolbar gets a ![Statistics](images/statistics.png)
+**Aide** menu. The Toolbar gets a ![Statistics](images/statistics.png)
 button.
 
 ## Launch the program

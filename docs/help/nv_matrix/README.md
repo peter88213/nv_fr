@@ -8,10 +8,10 @@
 
 This page refers to the latest
 [nv_matrix](https://github.com/peter88213/nv_matrix/) release. You can
-open it with **Aid&e > ${Matrix plugin Online help}**.
+open it with **Aide > ${Matrix plugin Online help}**.
 
 The plugin adds a **Matrix** entry to the *novelibre* **Outils** menu,
-and a **${Matrix plugin Online help}** entry to the **Aid&e** menu. The
+and a **${Matrix plugin Online help}** entry to the **Aide** menu. The
 Toolbar gets a ![Matrix](images/matrix.png) button.
 
 ## Start the matrix manager

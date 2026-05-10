@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_collection](https://github.com/peter88213/nv_collection/) release.
-You can open it with **Aid&e > ${Collection plugin Online help}**.
+You can open it with **Aide > ${Collection plugin Online help}**.
 
 If you have several *novelibre* projects, you can manage them as books
 in a collection, also organized by series. A collection gives you quick
