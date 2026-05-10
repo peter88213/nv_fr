@@ -41,7 +41,7 @@ where users can publish further instructions, tips, and tutorials in French.
 - [Signes menu](characters_menu.md)
 - [Lieux menu](locations_menu.md)
 - [Objets menu](items_menu.md)
-- [Intrigue menu](plot_menu.md)
+- [${Plot} menu](plot_menu.md)
 - [${Project notes} menu](project_notes_menu.md)
 - [${Import} menu](import_menu.md)
 - [${Export} menu](export_menu.md)

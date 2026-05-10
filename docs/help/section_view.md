@@ -47,7 +47,7 @@ When ticked, there will be no section divider inserted above the
 selected section in exported documents. The section just starts a new
 paragraph.
 
-## Intrigue
+## ${Plot}
 
 Expand or collapse this frame by clicking on the label.
 

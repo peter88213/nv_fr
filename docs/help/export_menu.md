@@ -231,7 +231,7 @@ elements to another projects.
 > 
 > To import XML data files from another project, use the **${Import}**
 > command in the **Signes**, **Lieux**, **Objets**, 
-> or **Intrigue** menu.
+> or **${Plot}** menu.
 
 ---
 

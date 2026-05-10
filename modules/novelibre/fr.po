@@ -1107,7 +1107,7 @@ msgid "Please wait ..."
 msgstr ""
 
 msgid "Plot"
-msgstr "Intrigue"
+msgstr ""
 
 msgid "Plot grid"
 msgstr ""
