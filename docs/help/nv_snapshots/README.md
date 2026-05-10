@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_snapshots](https://github.com/peter88213/nv_snapshots/) release. You
-can open it with **Aide > ${Snapshots Online help}** or `F1`.
+can open it with **Aide > ${Snapshots plugin Online help}** or `F1`.
 
 The plugin adds a **Snapshots** entry to the *novelibre* **Outils** menu,
 a **Snapshot** entry to the **File** menu, and a 
@@ -102,7 +102,7 @@ a display field for the title and description of the selected snapshot.
 The functions of the snapshot manager are accessed via the menu
 described below.
 
-#### Aide > ${Snapshots Online help}
+#### Aide > ${Snapshots plugin Online help}
 
 Starts the system web browser with this page.
 
