@@ -2,9 +2,9 @@
 
 ---
 
-# ![N](img/nLogo32.png) novelibre
+# ![N](img/nLogo32.png) ![French](img/france.png) novelibre
 
-[novelibre](https://github.com/peter88213/novelibre/) helps novelists to plan extensive novels and to keep track of them during creation and revision.
+*novelibre* helps novelists to plan extensive novels and to keep track of them during creation and revision.
 
 *novelibre* is designed for writers who are familiar with OpenOffice or LibreOffice.  
 *novelibre* is an add-on to OpenOffice or LibreOffice that helps to break down large novels into parts, chapters and sections, all of which are provided with additional information called metadata.
@@ -33,7 +33,9 @@ This is the manuscript to work on. *novelibre* generated it and passed it to Lib
 
 ## Credits
 
-The French translations of the user interface are provided by .
+- The French translations of the user interface are provided by .
+- The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
+- The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
 
 ---
 

@@ -3,14 +3,14 @@
 [![News/Feedback](docs/img/news-button.png)](https://github.com/peter88213/novelibre/discussions)
 [![Online help](docs/img/help-button.png)](https://peter88213.github.io/nv_fr/help/)
 
-# nv_fr
+# ![N](docs/img/nLogo32.png) ![French](docs/img/france.png) nv_fr
 
 French language package for [novelibre](https://github.com/peter88213/novelibre/).
 
 This repository includes
 - French translations of the *novelibre* user interface to be installed as a plugin.
-- French online help pages linked to the application. 
-- A *novelibre* home page in French. 
+- [French online help pages](https://peter88213.github.io/nv_fr/help/) linked to the application. 
+- A *novelibre* [home page in French](https://peter88213.github.io/nv_fr/). 
 
 > [!IMPORTANT]
 > This repository needs maintenance by French-speaking persons. 
@@ -58,7 +58,9 @@ The package is also available in zip format: [nv_fr_v0.1.0.zip](https://github.c
 
 ## Credits
 
-The French translations of the user interface are provided by .
+- The French translations of the user interface are provided by .
+- The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
+- The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
 
 ---
 
