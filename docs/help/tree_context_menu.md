@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > Tree view context menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > Tree view context menu
 
 ---
 

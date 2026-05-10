@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > ${Plot line} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Plot line} properties
 
 ---
 

@@ -1,4 +1,4 @@
-[Home Page](https://github.com/peter88213/novelibre) > French pages
+[Home Page](https://github.com/peter88213/novelibre) > Pages en français
 
 ---
 
