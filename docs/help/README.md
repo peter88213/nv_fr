@@ -15,8 +15,8 @@ on the user concept, and "How To" guides can be found in the
 The [novelibre wiki](https://github.com/peter88213/novelibre/wiki)
 provides further detailed instructions in English.
 
-There is also a [wiki](https://github.com/peter88213/nv_fr/wiki) 
-where users can publish further instructions, tips, and tutorials in French.
+There is also a [wiki](https://github.com/peter88213/nv_xx/wiki) 
+where users can publish further instructions, tips, and tutorials in xxx.
 
 
 > **Note**
@@ -27,9 +27,8 @@ where users can publish further instructions, tips, and tutorials in French.
 > Terms for which no translations are currently available are represented by placeholders. 
 > Volunteers who would like to translate and update these pages are welcome. 
 >
-> The help pages are based on **novelibre version 5.49**.
+> The help pages are based on **novelibre version 5.56**.
 > For newer features, please refer to the English online help. 
-
 
 ## General
 
@@ -43,10 +42,11 @@ where users can publish further instructions, tips, and tutorials in French.
 - [Affichage menu](view_menu.md)
 - [Chapitre menu](chapter_menu.md)
 - [Section menu](section_menu.md)
+- [${Story structure} menu](story_structure_menu.md)
+- [${Plot lines} menu](plot_lines_menu.md)
 - [Signes menu](characters_menu.md)
 - [Lieux menu](locations_menu.md)
 - [Objets menu](items_menu.md)
-- [${Plot} menu](plot_menu.md)
 - [${Project notes} menu](project_notes_menu.md)
 - [${Import} menu](import_menu.md)
 - [${Export} menu](export_menu.md)

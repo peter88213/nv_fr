@@ -20,6 +20,9 @@ Same as `Alt`-`Right`.
 ![${Show Book}](images/viewBook.png) Go to the "${Book}" branch and expand
 it. Same as **Affichage > ${Show Book}**.
 
+![${Show Plot lines}](images/viewArcs.png) Go to the "${Plot lines}" branch
+and expand it. Same as **Affichage > ${Show Plot lines}**.
+
 ![${Show Characters}](images/viewCharacters.png) Go to the "Signes"
 branch and expand it. Same as **Affichage > ${Show Characters}**.
 
@@ -28,9 +31,6 @@ branch and expand it. Same as **Affichage > ${Show Locations}**.
 
 ![${Show Items}](images/viewItems.png) Go to the "Objets" branch and
 expand it. Same as **Affichage > ${Show Items}**.
-
-![${Show Plot lines}](images/viewArcs.png) Go to the "${Plot lines}" branch
-and expand it. Same as **Affichage > ${Show Plot lines}**.
 
 ![${Show Project notes}](images/viewProjectnotes.png) Go to the "${Project notes}" 
 branch and expand it. Same as **Affichage > ${Show Project notes}**.

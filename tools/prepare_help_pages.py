@@ -6,12 +6,13 @@ import json
 import os
 import re
 from my_template import MyTemplate
+from build import LANGUAGE_PAGES
 
 help_dir = '../docs/help'
 index_page = f'{help_dir}/README.md'
 json_dict = '../dictionary/msg_dict.json'
 page_link_pattern = re.compile(r'- \[(.*?)\]\((.*?)\)')
-page_template = '''[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [French pages](../) > [${Online help}](./) > $Heading
+page_template = '''[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Index](../) > [${Online help}](./) > $Heading
 
 ---
 
@@ -41,6 +42,7 @@ def translate_special_terms():
         with open(page_path, 'r', encoding='utf-8') as f:
             text = f.read()
         text = MyTemplate(text).safe_substitute(dictionary)
+        text = text.replace('xxx pages', LANGUAGE_PAGES)
         with open(page_path, 'w', encoding='utf-8') as f:
             f.write(text)
 

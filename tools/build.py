@@ -19,6 +19,7 @@ sys.path.insert(0, f'{os.getcwd()}/../../novelibre/tools')
 
 VERSION = '0.1.2'
 LANGUAGE_CODE = 'fr'
+LANGUAGE_PAGES = 'Pages en français'
 
 
 def output(message):

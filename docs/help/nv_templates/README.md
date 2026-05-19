@@ -48,7 +48,7 @@ This loads the narrative structure from a Markdown template file.
 
 -   A file select dialog asks for the template file to apply.
 
-#### ${Save}...
+#### Enregistrer...
 
 This saves the narrative structure to a Markdown template file.
 

@@ -84,7 +84,7 @@ split the section at the cursor position.
 
 ## Create a section
 
-With **Section > ${New}** or `${Ctrl}`-`Alt`-`N`, you can create a section.
+With **Section > Nouveau** or `${Ctrl}`-`Alt`-`N`, you can create a section.
 
 -   The new section is placed after the currently edited section.
 -   The new section is of the same type as the currently edited section.
