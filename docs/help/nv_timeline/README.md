@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [${Online help}](../) > nv_timeline
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_timeline
 
 ---
 
@@ -8,11 +8,11 @@
 
 This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
-can open it with **Aide > ${Timeline plugin Online help}**.
+can open it with **${Help} > ${Timeline plugin Online help}**.
 
-The plugin adds a **Timeline** entry to the *novelibre* **Outils** menu,
-a **${Create from Timeline...}** to the **Fichier > Nouveau** submenu, and a
-**${Timeline plugin Online help}** entry to the **Aide** menu. The Toolbar
+The plugin adds a **Timeline** entry to the *novelibre* **${Tools}** menu,
+a **${Create from Timeline...}** to the **${File} > ${New}** submenu, and a
+**${Timeline plugin Online help}** entry to the **${Help}** menu. The Toolbar
 gets a ![Timeline](images/tl.png) button.
 
 ## Command reference
@@ -58,7 +58,7 @@ the timeline's file name exists, create a new one from the timeline.
 > 
 > To become sections in *novelibre*, *Timeline* Events need a "Section" label.
 > 
-> ![Timeline Screenshot](images/event01.png)
+> 
 > 
 > The idea behind this is that only selected events should be included as
 > sections in the *novelibre* project. There may also be background

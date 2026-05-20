@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Plot line} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Plot line} properties
 
 ---
 
@@ -7,7 +7,7 @@
 The ${Plot line} properties view opens in the right pane when you select a
 plot line in the tree.
 
-![novelibre screenshot](images/plotline_view01.png)
+
 
 ## Title and description
 
@@ -26,7 +26,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## Nom abrégé
+## ${Short name}
 
 Be sure to enter a short name to be displayed as a reference in the
 tree. A single character like "A", "B", "C" is recommended.
@@ -34,12 +34,12 @@ tree. A single character like "A", "B", "C" is recommended.
 The following example shows plot line short names as displayed in the
 tree:
 
-![novelibre screenshot](images/plotline_view02.png)
+
 
 ## Section assignments
 
 The number of sections that belong to the selected plot line is shown
-below the "Nom abrégé" entry. The assignments can be made in the
+below the "${Short name}" entry. The assignments can be made in the
 section properties view. You can unlink all
 sections from the selected plot line at once by clicking on the 
 **${Clear section assignments}** button.
@@ -50,11 +50,11 @@ sections from the selected plot line at once by clicking on the
 > offered by the
 > [nv_matrix plugin](https://github.com/peter88213/nv_matrix/).
 
-## Liens
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -77,9 +77,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Ajouter Link
+### ${Add} Link
 
-When clicking on ![Ajouter](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -87,14 +87,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Ouvrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -133,9 +133,9 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **Précédent** lets you navigate to the previous plot line in the
+-   **${Previous}** lets you navigate to the previous plot line in the
     tree.
--   **Préc** lets you navigate to the next plot linie in the tree.
+-   **${Next}** lets you navigate to the next plot linie in the tree.
 
 ---
 

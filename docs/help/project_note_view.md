@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Project note} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Project note} properties
 
 ---
 
@@ -9,7 +9,7 @@ a project note in the tree.
 
 ## Title and content
 
-![Screenshot](images/project_note_view01.png)
+
 
 Title and content are displayed in an editable "index card".
 
@@ -26,11 +26,11 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the content are applied when the mouse is clicked anywhere
 outside the text input field.
 
-## Liens
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -53,9 +53,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Ajouter Link
+### ${Add} Link
 
-When clicking on ![Ajouter](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -63,14 +63,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Ouvrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -100,9 +100,9 @@ application for the link's file type.
 
 ## Navigation buttons
 
--   **Précédent** lets you navigate to the previous project note in the
+-   **${Previous}** lets you navigate to the previous project note in the
     tree.
--   **Préc** lets you navigate to the next project note in the tree.
+-   **${Next}** lets you navigate to the next project note in the tree.
 
 
 ---

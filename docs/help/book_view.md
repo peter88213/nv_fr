@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Book} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Book} properties
 
 ---
 
@@ -7,8 +7,6 @@
 The ${Book} properties view opens in the right pane when you select
 "${Book}" in the tree, or when you click on the ![${Show Book}](images/viewBook.png) 
 toolbar icon. It is the initial view after opening a *novelibre* project.
-
-![novelibre screenshot](images/book_view01.png)
 
 ## Title, description, and author
 
@@ -21,25 +19,18 @@ clicked anywhere outside the text input field.
 After exporting the book to an *ODT* document, title and description
 appear in the document properties.
 
-![Screenshot](images/book_view08.png)
-
 These properties are visible, for example, when the mouse pointer is
 over the document in the Windows Explorer.
 
-![Screenshot](images/book_view09.png)
 
 ## ${Document language}
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view02.png)
-
 -   Language code acc. to ISO 639-1
 -   Country code acc. to ISO 3166-2
 
 This information controls the spelling checker for export documents.
-
-![LibreOffice Writer screenshot](images/book_view10.png)
 
 If not set, the System locale setting will be used as default.
 
@@ -48,14 +39,12 @@ If not set, the System locale setting will be used as default.
 > You can also set or change the document language with *Writer*, then it
 > will be applied on import.
 >
-> ![LibreOffice Writer screenshot](images/book_view11.png)
 
 
 ## ${Auto numbering}
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view03.png)
 
 ### ${Auto number chapters when refreshing the tree}, ${Auto number parts when refreshing the tree}
 
@@ -91,8 +80,6 @@ If this checkbox is ticked, the chapter numbering starts again with
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view04.png)
-
 *novelibre* provides some ready-made fields for sections and characters
 to store information that should be at hand when writing. You can name
 these fields to fit into your individual story planning concept. Editing
@@ -108,7 +95,7 @@ scenes.
 ### ${Other scene}
 
 When you set the Scene frame to
-**Autre**, you see the three text boxes whose names you enter here.
+**${Other}**, you see the three text boxes whose names you enter here.
 These categories then apply to all sections that represent scenes
 other than "Action" and "Reaction".
 
@@ -125,8 +112,6 @@ you can open in the character properties view.
 ## ${Story time}
 
 Expand or collapse this frame by clicking on the label.
-
-![novelibre screenshot](images/book_view05.png)
 
 To get an overview of the course of the story time, you can enter
 date/time information for each section.
@@ -174,8 +159,6 @@ the reference date.
 
 Expand or collapse this frame by clicking on the label.
 
-![novelibre screenshot](images/book_view06.png)
-
 With *novelibre*, you can set a word count target and track your writing
 progress.
 
@@ -201,7 +184,7 @@ Here you can enter a number (without decimal points or separators)
 indicating your writing goal in words. The entry can be completed by
 pressing the `Enter` key.
 
-### Nombre de départ
+### ${Starting count}
 
 Here you can enter a number (without decimal points or separators)
 indicating the word count you want to start from. The entry can be
@@ -210,7 +193,7 @@ completed by pressing the `Enter` key.
 ### ${Set actual wordcount as start}
 
 Click this button to enter your current word count in the 
-**Nombre de départ** field.
+**${Starting count}** field.
 
 ### ${Words written}
 
@@ -226,11 +209,11 @@ This setting is for the tree viewer "${Work phase}" coloring mode.
 -   Sections that are ahead of the selected work phase are green.
 -   Sections that are behind the selected work phase are magenta.
 
-## Liens
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -253,9 +236,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Ajouter Link
+### ${Add} Link
 
-When clicking on ![Ajouter](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -263,14 +246,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Ouvrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -304,9 +287,6 @@ A cover thumbnail is displayed with the book properties if you provide a
 PNG image file with the project name along with the *.novx* file. The
 recommended image width is 100 to 200 pixels.
 
-![Windows Explorer Screenshot](images/book_view12.png)
-
-![novelibre screenshot](images/book_view07.jpg)
 
 ---
 

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Import} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Import} menu
 
 ---
 
@@ -10,7 +10,7 @@ With the **${Import}** main menu entry, you can open a pop-up window with a
 list containing previously exported ODF documents that can be
 reimported, thus updating the current project.
 
-![novelibre screenshot](images/import_menu01.png)
+
 
 -   The document types and dates are shown.
 

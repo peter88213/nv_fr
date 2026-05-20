@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Plot lines} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Plot lines} menu
 
 ---
 
@@ -148,7 +148,7 @@ The following picture shows a LibreOffice screenshot. Note the hyperlink
 from the plot line title in the plot table (left) to the plot line in
 the plot description (right).
 
-![LibreOffice screenshot](images/plot_menu04.png)
+
 
 > **Important**
 > 
@@ -166,7 +166,6 @@ that contains a plot table similar to the ODS plot table (see above),
 but without any hyperlinks, and launch your system's web browser for
 displaying it.
 
-![Edge browser screenshot](images/plot_menu03.jpg)
 
 > **Note**
 > 

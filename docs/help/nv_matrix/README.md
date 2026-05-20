@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [${Online help}](../) > nv_matrix
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_matrix
 
 ---
 
@@ -8,16 +8,16 @@
 
 This page refers to the latest
 [nv_matrix](https://github.com/peter88213/nv_matrix/) release. You can
-open it with **Aide > ${Matrix plugin Online help}**.
+open it with **${Help} > ${Matrix plugin Online help}**.
 
-The plugin adds a **Matrix** entry to the *novelibre* **Outils** menu,
-and a **${Matrix plugin Online help}** entry to the **Aide** menu. The
+The plugin adds a **Matrix** entry to the *novelibre* **${Tools}** menu,
+and a **${Matrix plugin Online help}** entry to the **${Help}** menu. The
 Toolbar gets a ![Matrix](images/matrix.png) button.
 
 ## Start the matrix manager
 
 -   Open the matrix manager either from the main menu: 
-    **Outils > ${Matrix}**,
+    **${Tools} > ${Matrix}**,
 -   or via the ![Matrix](images/matrix.png) button in the toolbar.
 
 ## Hovertips
@@ -28,7 +28,7 @@ Some fields display hovertips when you move the mouse cursor over them.
 -   Plot line node: The section's Plot line notes, if any.
 -   Character heading: Full name and aka, if any.
 
-![nv_matrix screenshot](images/nv_matrix01.png)
+
 
 ## Add/remove relationships
 

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Character} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Character} properties
 
 ---
 
@@ -7,7 +7,7 @@
 The Character properties view opens in the right pane when you select a
 character in the tree.
 
-![Screenshot](images/character_view01.png)
+
 
 ## Title and description
 
@@ -26,7 +26,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## Nom complet
+## ${Full name}
 
 The character's title as shown on the index card is used as a short
 name at several places. The full name can be entered separately. Editing
@@ -37,7 +37,7 @@ can be completed by pressing the `Enter` key.
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## Tags
+## ${Tags}
 
 Tags are a very freely usable tool for labeling characters in the tree
 view. Tags do not have to be defined elsewhere, but simply entered in
@@ -77,31 +77,31 @@ the `Enter` key.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view02.png)
+
 
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
 
-The default name is "Bio". If this is not the right category for you,
+The default name is "${Bio}". If this is not the right category for you,
 you can change it in the book settings.
 
 ## ${Field} 2
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view03.png)
+
 
 Changes are applied when the mouse is clicked anywhere outside the text
 input field.
 
-The default name is "Objectifs". If this is not the right category for
+The default name is "${Goals}". If this is not the right category for
 you, you can change it in the book settings.
 
-## Liens
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/character_view04.png)
+
 
 This is a list for image and research document links.
 
@@ -124,9 +124,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Ajouter Link
+### ${Add} Link
 
-When clicking on ![Ajouter](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -134,14 +134,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Ouvrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -180,8 +180,8 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **Précédent** lets you navigate to the previous character in the tree.
--   **Préc** lets you navigate to the next character in the tree.
+-   **${Previous}** lets you navigate to the previous character in the tree.
+-   **${Next}** lets you navigate to the next character in the tree.
 
 ---
 

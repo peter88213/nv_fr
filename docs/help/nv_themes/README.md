@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [${Online help}](../) > nv_themes
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_themes
 
 ---
 
@@ -9,7 +9,7 @@
 This page refers to the latest
 [nv_themes](https://github.com/peter88213/nv_themes/) release.
 
-The plugin adds a **${Change theme}** entry to the *novelibre* **Affichage** menu.
+The plugin adds a **${Change theme}** entry to the *novelibre* **${View}** menu.
 
 
 > **Important**
@@ -42,14 +42,14 @@ the distribution's package manager.
 
 Here is an example with *Synaptic* on Linux Mint:
 
-![Linux Mint screenshot](images/nv_themes01.png)
+
 
 ## Start the dialog
 
-Start the theme changer from the main menu: **Affichage > ${Change theme}**.
+Start the theme changer from the main menu: **${View} > ${Change theme}**.
 You can select the new theme from a drop-down list.
 
-![Windows screenshot](images/nv_themes02.png)
+
 
 
 > **Important**

@@ -1,14 +1,14 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > Outils menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Tools} menu
 
 ---
 
-# Outils menu
+# ${Tools} menu
 
 **Miscellaneous functions**
 
 > **Note**
 > 
-> The *Outils* menu can be extended by plugins to add more features.
+> The *${Tools}* menu can be extended by plugins to add more features.
 
 ------------------------------------------------------------------------
 
@@ -16,10 +16,10 @@
 
 **Project independent program settings**
 
-With **Outils > ${Backup options}**, you can open a dialog for settings
+With **${Tools} > ${Backup options}**, you can open a dialog for settings
 concerning the backup.
 
-![novelibre Screenshot](images/tools_menu02.png)
+
 
 The path to the backup directory is displayed at the top of the window,
 if one is set.
@@ -55,7 +55,7 @@ project file in the set backup directory each time it is saves.
 
 **Launch the file manager**
 
-With **Outils > ${Open installation folder}**, you can launch the file
+With **${Tools} > ${Open installation folder}**, you can launch the file
 manager with the *novelibre* installation folder. This might come in
 handy if you wish to edit configuration files, or install your own
 plugins.
@@ -66,10 +66,10 @@ plugins.
 
 **Display and manage installed plugins**
 
-With **Outils > ${Plugin Manager}**, you can open the 
+With **${Tools} > ${Plugin Manager}**, you can open the 
 *${Installed plugins}* dialog.
 
-![novelibre screenshot](images/tools_menu01.png)
+
 
 -   Successfully installed plugins are displayed black on white by
     default.
@@ -126,7 +126,7 @@ Select the plugin, and click on the **${Uninstall}** button.
 
 **Show an HTML report with all the "sticky notes"**
 
-With **Outils > ${Show notes}**, you can create a HTML file that contains
+With **${Tools} > ${Show notes}**, you can create a HTML file that contains
 all "sticky notes" along with the titles of the tree elements they are
 associated with, and launch your system's web browser for displaying it.
 

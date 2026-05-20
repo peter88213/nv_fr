@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > ${Plot point} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Plot point} properties
 
 ---
 
@@ -7,7 +7,7 @@
 The ${Plot point} properties view opens in the right pane when you select a
 plot point in the tree.
 
-![Screenshot](images/point_view01.png)
+
 
 ## Title and description
 
@@ -29,7 +29,7 @@ clicked anywhere outside the text input field.
 ## Assigned section
 
 You can connect the plot point to a section in the book. The label below
-"Section" displays the section title.
+"${Section}" displays the section title.
 
 ### ${Assign section}
 
@@ -59,11 +59,11 @@ is opened and its properties are displayed.
 > You can go back to the initially selected plot point with 
 > ![${Back}](images/goBack.png).
 
-## Liens
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -86,9 +86,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Ajouter Link
+### ${Add} Link
 
-When clicking on ![Ajouter](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -96,14 +96,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Ouvrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -142,9 +142,9 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **Précédent** lets you navigate to the previous plot point in the
+-   **${Previous}** lets you navigate to the previous plot point in the
     tree.
--   **Préc** lets you navigate to the next plot point in the tree.
+-   **${Next}** lets you navigate to the next plot point in the tree.
 
 ---
 

@@ -1,7 +1,6 @@
-![external-link](../images/external-link.png)
-[Deutsch](https://peter88213.github.io/nvhelp-de/nv_progress/)
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_progress
 
-------------------------------------------------------------------------
+---
 
 # nv_progress
 
@@ -9,10 +8,10 @@
 
 This page refers to the latest
 [nv_progress](https://github.com/peter88213/nv_progress/) release. 
-You can open it with **Aide > ${Progress viewer Online help}**.
+You can open it with **${Help} > ${Progress viewer Online help}**.
 
 The plugin adds a **${Daily progress log}** entry to the *novelibre*
-**Outils** menu.
+**${Tools}** menu.
 
 
 > **Important**
@@ -24,10 +23,18 @@ The plugin adds a **${Daily progress log}** entry to the *novelibre*
 ## Launch the program
 
 -   Open the progress log viewer from the main menu: 
-    **Outils > ${Daily progress log}**.
+    **${Tools} > ${Daily progress log}**.
 -   While the *nv_progress* window is open, the actual word count is
     automatically updated.
 
 ## Exit
 
 -   Close the window.
+
+---
+
+[English manual](https://peter88213.github.io/nvhelp-en/)
+
+
+Copyright (c) by Peter Triesberger. All rights reserved.
+

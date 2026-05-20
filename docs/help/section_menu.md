@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > Section menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Section} menu
 
 ---
 
-# Section menu
+# ${Section} menu
 
 **Section operation**
 
-## Ajouter
+## ${Add}
 
 **Add a new section**
 
-With **Section > Ajouter**, you can add a section to the tree.
+With **${Section} > ${Add}**, you can add a section to the tree.
 
 -   The new section is placed at the next free position after the
     selection, if possible.
@@ -30,7 +30,7 @@ With **Section > Ajouter**, you can add a section to the tree.
 
 **Add new sections in bulk**
 
-With **Section > ${Add multiple sections...}**, you can add up to 20
+With **${Section} > ${Add multiple sections...}**, you can add up to 20
 sections to the tree.
 
 -   You will be prompted to enter the number of new sections.
@@ -42,7 +42,7 @@ sections to the tree.
 
 ## ${Clone}
 
-With **Section > ${Clone}**,
+With **${Section} > ${Clone}**,
 you can create a copy of the selected section.
 
 - The clone is inserted behind the selected section in the project tree.
@@ -57,7 +57,7 @@ you can create a copy of the selected section.
 
 **Set the type of the selected section**
 
-With **Section > ${Set Type}**, you can set the type of the selected
+With **${Section} > ${Set Type}**, you can set the type of the selected
 section to *${Normal}* or *${Unused}* .
 
 > **Hint**
@@ -67,26 +67,26 @@ section to *${Normal}* or *${Unused}* .
 > -   Either select multiple sections, or
 > -   select a chapter.
 
-## Définir le status
+## ${Set Status}
 
 **Set the section completion status**
 
-With **Section > Définir le status**, you can set the completion status 
+With **${Section} > ${Set Status}**, you can set the completion status 
 of the selected section to 
-*Plan*, *Brouillon*, *1ère édition*, *2ème édition*, or *Terminé*.
+*${Outline}*, *${Draft}*, *${1st Edit}*, *${2nd Edit}*, or *${Done}*.
 
 > **Hint**
 > 
 > Status change for multiple sections:
 > 
 > -   Either select multiple sections, or
-> -   select a parent node (Chapitre or ${Book})
+> -   select a parent node (${Chapter} or ${Book})
 
 ## ${Set Viewpoint...}
 
 **Assign a viewpoint character to the section**
 
-With **Section > ${Set Viewpoint...}**, you open a pop-up window with a
+With **${Section} > ${Set Viewpoint...}**, you open a pop-up window with a
 dropdown list containing all characters in the tree view's sort order.
 Click on the character you want to assign as viewpoint character. If you
 click on the topmost entry (the blank one) of the list, this will clear
@@ -101,7 +101,7 @@ the viewpoint association.
 
 **Assign a color to all selected sections**
 
-With **Section > ${Assign color...}**
+With **${Section} > ${Assign color...}**
 you can assign a color to all sections in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected sections remain unchanged.
@@ -111,7 +111,7 @@ If you cancel the color choosing process, the color of the selected sections rem
 
 **Reset the colors of all selected sections**
 
-With **Section > ${Reset color}**
+With **${Section} > ${Reset color}**
 you can clear the color assignments for all sections in a single or multiple selection.
 
 
@@ -121,7 +121,7 @@ you can clear the color assignments for all sections in a single or multiple sel
 
 **Export an ODT document that can be imported again after editing**
 
-With **Section > ${Export section descriptions for editing}**, you can
+With **${Section} > ${Export section descriptions for editing}**, you can
 create a text document with a **full synopsis** containing part/chapter
 headings and section descriptions that can be edited and reimported.
 File name suffix is `_sections_tmp`.
@@ -148,7 +148,7 @@ File name suffix is `_sections_tmp`.
 
 **Export an ODS document**
 
-With **Section > ${Section table (export only)}**, you can create a
+With **${Section} > ${Section table (export only)}**, you can create a
 spreadsheet with a row per section, containing the following data:
 
 -   Section ID (hidden)
@@ -191,7 +191,7 @@ writing project, for example, in the case of abandoning *novelibre*.
 
 **Show an HTML report with a time table**
 
-With **Section > ${Show Time table}**, you can create a HTML file that
+With **${Section} > ${Show Time table}**, you can create a HTML file that
 contains a time table, and launch your system's web browser for
 displaying it.
 

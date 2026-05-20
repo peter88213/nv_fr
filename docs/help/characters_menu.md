@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [${Online help}](./) > Signes menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Characters} menu
 
 ---
 
-# Signes menu
+# ${Characters} menu
 
 **Character operation**
 
-## Ajouter
+## ${Add}
 
 **Add a new character**
 
-With **Signes > Ajouter** you can add a character to the tree.
+With **${Characters} > ${Add}** you can add a character to the tree.
 
 -   If a character is selected, the new character is placed after the
     selected one.
@@ -21,11 +21,11 @@ With **Signes > Ajouter** you can add a character to the tree.
 
 ---
 
-## Définir le status
+## ${Set Status}
 
 **Set the character status**
 
-With **Signes > Définir le status**, you can make the selected character
+With **${Characters} > ${Set Status}**, you can make the selected character
 *major* or *minor*. Major characters are highlighted in the tree view.
 
 > **Note**
@@ -39,7 +39,7 @@ With **Signes > Définir le status**, you can make the selected character
 
 **Assign a color to all selected characters**
 
-With **Signes > ${Assign color...}**
+With **${Characters} > ${Assign color...}**
 you can assign a color to all characters in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected characters remain unchanged.
@@ -49,7 +49,7 @@ If you cancel the color choosing process, the color of the selected characters r
 
 **Reset the colors of all selected characters**
 
-With **Signes > ${Reset color}**
+With **${Characters} > ${Reset color}**
 you can clear the color assignments for all characters in a single or multiple selection.
 
 ---
@@ -58,7 +58,7 @@ you can clear the color assignments for all characters in a single or multiple s
 
 **Import characters from another project**
 
-With **Signes > ${Import}**, you can import a selection of characters
+With **${Characters} > ${Import}**, you can import a selection of characters
 from another project. First you select an XML file containing the
 character data. Then you select the characters you want to add to the
 current project.
@@ -74,7 +74,7 @@ current project.
 
 **Export an ODT document that can be imported again after editing**
 
-With **Signes > ${Export character descriptions for editing}**, you
+With **${Characters} > ${Export character descriptions for editing}**, you
 can create a text document that contains character descriptions, bio,
 goals, and notes that can be edited in Office Writer and reimported.
 File name suffix is `_characters_tmp`.
@@ -83,7 +83,7 @@ File name suffix is `_characters_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **Signes > ${Export character table}**, you can create a
+With **${Characters} > ${Export character table}**, you can create a
 spreadsheet that contains a row per character. The document can be
 edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
@@ -100,7 +100,7 @@ edited with *Calc* and reimported. File name suffix is `_charlist_tmp`.
 
 **Show an HTML report with characters data**
 
-With **Signes > ${Show table in Browser}**, you can create a HTML file
+With **${Characters} > ${Show table in Browser}**, you can create a HTML file
 that contains a character table, and launch your system's web browser
 for displaying it.
 
