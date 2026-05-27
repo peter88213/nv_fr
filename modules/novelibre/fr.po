@@ -1379,7 +1379,7 @@ msgstr ""
 msgid "Show ages"
 msgstr ""
 
-msgid "Show chapter structure board in browser"
+msgid "Show chapter board in browser"
 msgstr ""
 
 msgid "Show markup"
