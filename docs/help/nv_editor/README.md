@@ -8,7 +8,10 @@
 
 This page refers to the latest
 [nv_editor](https://github.com/peter88213/nv_editor/) release. You can
-open it with **${Help} > ${Editor plugin Online help}**.
+open it with **${Help} > ${Editor plugin help}**
+or `F1` when an editor window is active.
+
+---
 
 You can use the section editor to quickly edit and split individual
 sections. The editor provides access to the internal markup, which is
@@ -16,9 +19,11 @@ similar to HTML.
 
 ## Launch the section editor
 
-Open a section editor window by double-clicking on a section, or via the
-**${Section} > ${Edit}** menu entry when a section is selected, or by hitting
-the `Enter` key.
+First, select a section in the project tree. 
+Then open a section editor window 
+via the **${Section} > ${Edit}** menu entry,
+or `${Ctrl}`-`E`, 
+or via the **${Edit}** entry in the section context menu.
 
 
 > **Note**
