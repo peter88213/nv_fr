@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Section} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Section properties
 
 ---
 
-# ${Section} properties
+# Section properties
 
 The Section properties view opens in the right pane when you select a
 section in the tree.
@@ -26,7 +26,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ${Tags}
+## Tags
 
 Tags are a very freely usable tool for labeling sections in the tree view. 
 You can highlight sections based on a tag in the project tree.
@@ -39,7 +39,7 @@ pressing the `Enter` key.
 > If you want to use a tag more than once, make sure you use the same
 > spelling in the different places.
 
-## ${Viewpoint}
+## Point de vue
 
 The viewpoint character's short name is displayed in the tree view. You
 can select it from a drop-down list containing all characters in the
@@ -79,7 +79,7 @@ are assigned to the section.
 
 #### Add plot line assignment
 
-When clicking on ![${Add}](images/add.png), the "Pick mode" is
+When clicking on ![Ajouter](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a plot line, it will be related with the section.
 
@@ -140,7 +140,7 @@ implement something like this to ensure suspense, you can do so here.
 
 If this is not for you, but you would like to use a different method to
 set up a dramaturgical scene micro-structure, you can set the section to
-**${Other}**, and get three freely named text fields.
+**Autre**, and get three freely named text fields.
 
 Here is an example of a non-standard scene category:
 
@@ -173,7 +173,7 @@ characters who have birth dates.
 
 ### Add Relationship
 
-When clicking on ![${Add}](images/add.png), the "Pick mode" is
+When clicking on ![Ajouter](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a character/location/item, this element will be related with the
 section.
@@ -224,11 +224,11 @@ Editing can be completed by pressing the `Enter` key.
 
 If the selected section is a scene, this is when it starts:
 
-#### ${Date}
+#### Date
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
-#### ${Time}
+#### Heure
 
 Format: *hh:mm*, according to ISO 8601.
 
@@ -262,7 +262,7 @@ The moon phase information consists of:
 
 #### ${Clear date/time}
 
-This will reset *${Date}*, *${Time}*, and *${Day}* simultaneously.
+This will reset *Date*, *Heure*, and *${Day}* simultaneously.
 
 #### ${Generate}
 
@@ -272,7 +272,7 @@ previous section, so the selected section follows directly the previous one.
 #### ${Convert date/day}
 
 If the reference date is set, The unspecific *${Day}* can be transformed 
-into a specific *${Date}*, and vice versa.
+into a specific *Date*, and vice versa.
 
 > **Hint**
 > 
@@ -304,7 +304,7 @@ This will reset *${Days}*, *${Hours}*, and *${Minutes}* simultaneously.
 This generates the duration from the date/time data of the next
 section, so the next section follows directly the current one.
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -331,9 +331,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -348,7 +348,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -387,9 +387,9 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **${Previous}** lets you navigate to the previous section in the
+-   **Précédent** lets you navigate to the previous section in the
     tree.
--   **${Next}** lets you navigate to the next section in the tree.
+-   **Préc** lets you navigate to the next section in the tree.
 
 ---
 

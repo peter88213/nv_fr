@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Project notes} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > ${Project notes} menu
 
 ---
 
@@ -6,11 +6,11 @@
 
 **Project notes operation**
 
-## ${Add}
+## Ajouter
 
 **Add a new project note**
 
-With **${Project notes} > ${Add}** you can add a project note to the tree.
+With **${Project notes} > Ajouter** you can add a project note to the tree.
 
 -   If a project note is selected, the new project note is placed after
     the selected one.

@@ -1,29 +1,20 @@
 # nv_updater Dictionary
-# Copyright (C) 2023 Peter Triesberger
+# Copyright (C) 2026 Peter Triesberger
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.3.2\n"
-"POT-Creation-Date: 2025-08-16 15:26:06\n"
+"Project-Id-Version: 5.5.1\n"
+"POT-Creation-Date: 2026-08-25 17:55:51\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: novxlib pgettext.py 0.3\n"
+"Generated-By: novelibre pgettext.py 1.0\n"
 
 
-msgid "Alt-Down"
-msgstr ""
-
-msgid "Alt-Left"
-msgstr ""
-
-msgid "Alt-Right"
-msgstr ""
-
-msgid "Alt-Up"
+msgid "Cannot connect via the internet"
 msgstr ""
 
 msgid "Check for updates"
@@ -32,13 +23,22 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+msgid "Component"
+msgstr ""
+
 msgid "Ctrl"
 msgstr ""
 
 msgid "Del"
 msgstr ""
 
+msgid "Down"
+msgstr ""
+
 msgid "Finished"
+msgstr ""
+
+msgid "Help"
 msgstr ""
 
 msgid "Home page"
@@ -50,13 +50,13 @@ msgstr ""
 msgid "Latest version"
 msgstr ""
 
+msgid "Left"
+msgstr ""
+
 msgid "Looking for updates"
 msgstr ""
 
 msgid "No updates available"
-msgstr ""
-
-msgid "Online help"
 msgstr ""
 
 msgid "Outdated components remain active until next start"
@@ -65,19 +65,19 @@ msgstr ""
 msgid "Please restart novelibre after installing updates"
 msgstr ""
 
-msgid "Plugin"
+msgid "Right"
 msgstr ""
 
 msgid "Shift"
 msgstr ""
 
+msgid "Up"
+msgstr ""
+
 msgid "Update"
 msgstr ""
 
-msgid "Update checker Online help"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
+msgid "Update checker plugin help"
 msgstr ""
 
 msgid "unknown"

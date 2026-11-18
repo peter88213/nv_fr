@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_timeline
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_timeline
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_timeline](https://github.com/peter88213/nv_timeline/) release. You
-can open it with **${Help} > ${Timeline plugin help}**.
+can open it with **Aide > ${Timeline plugin help}**.
 
 
 ## Command reference

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_editor
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_editor
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_editor](https://github.com/peter88213/nv_editor/) release. You can
-open it with **${Help} > ${Editor plugin help}**
+open it with **Aide > ${Editor plugin help}**
 or `F1` when an editor window is active.
 
 ---
@@ -21,7 +21,7 @@ similar to HTML.
 
 First, select a section in the project tree. 
 Then open a section editor window 
-via the **${Section} > ${Edit}** menu entry,
+via the **Section > ${Edit}** menu entry,
 or `${Ctrl}`-`E`, 
 or via the **${Edit}** entry in the section context menu.
 
@@ -74,7 +74,7 @@ or via the **${Edit}** entry in the section context menu.
 
 ## Split a section
 
-With **${Section} > ${Split}** or `${Ctrl}`-`Alt`-`S`, you can
+With **Section > ${Split}** or `${Ctrl}`-`Alt`-`S`, you can
 split the section at the cursor position.
 
 -   All the text from the cursor position is cut and pasted into a newly
@@ -89,7 +89,7 @@ split the section at the cursor position.
 
 ## Create a section
 
-With **${Section} > ${New}** or `${Ctrl}`-`Alt`-`N`, you can create a section.
+With **Section > Nouveau** or `${Ctrl}`-`Alt`-`N`, you can create a section.
 
 -   The new section is placed after the currently edited section.
 -   The new section is of the same type as the currently edited section.
@@ -113,9 +113,9 @@ status is displayed in *novelibre*.
 
 ## Close the editor window
 
--   To close the editor window, click on the **${Close}** button, or just close the window.
--   Under Windows you can optionally exit with **${Section} > ${Exit}** or `Alt`-`F4`.
--   Otherwise you can optionally exit with **${Section} > ${Quit}** or `${Ctrl}`-`Q`.
+-   To close the editor window, click on the **Fermer** button, or just close the window.
+-   Under Windows you can optionally exit with **Section > Sortir** or `Alt`-`F4`.
+-   Otherwise you can optionally exit with **Section > ${Quit}** or `${Ctrl}`-`Q`.
 -   When closing the editor window, you will be asked for applying changes.
 
 

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Location}/${Item} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > ${Location}/${Item} properties
 
 ---
 
@@ -31,7 +31,7 @@ anywhere outside the text input field.
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## ${Tags}
+## Tags
 
 Tags are a very freely usable tool for labeling locations and items in
 the tree view. 
@@ -51,7 +51,7 @@ completed by pressing the `Enter` key.
 > keywords when creating a new wiki page for the location or item. This
 > provides a powerful navigation aid.
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -78,9 +78,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -95,7 +95,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -136,13 +136,13 @@ in the plot line row.
 
 ### Location view
 
--   **${Previous}** lets you navigate to the previous location in the tree.
--   **${Next}** lets you navigate to the next location in the tree.
+-   **Précédent** lets you navigate to the previous location in the tree.
+-   **Préc** lets you navigate to the next location in the tree.
 
 ### Item view
 
--   **${Previous}** lets you navigate to the previous item in the tree.
--   **${Next}** lets you navigate to the next item in the tree.
+-   **Précédent** lets you navigate to the previous item in the tree.
+-   **Préc** lets you navigate to the next item in the tree.
 
 ---
 

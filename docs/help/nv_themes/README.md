@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_themes
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_themes
 
 ---
 
@@ -12,14 +12,6 @@ This page refers to the latest
 
 ---
 
-> **Important**
-> 
-> If you just want a dark mode for *novelibre*, do install the
-> [nv_dark](https://github.com/peter88213/nv_dark/) plugin instead of
-> *nv_themes*. Changing the theme is not enough to get a dark mode. You
-> also need a modified color palette so that the colored text stands out
-> against the dark background. *nv_dark* comes with such a color palette.
-
 
 > **Note**
 > 
@@ -29,6 +21,8 @@ This page refers to the latest
 > 
 > On Windows, *novelibre* uses a lot of native widgets by default. You can
 > hardly do better with custom themes.
+> However, the *black* design theme offers a nice dark mode, 
+> if that's what you prefer. 
 
 
 ## Install additional themes
@@ -46,7 +40,7 @@ Here is an example with *Synaptic* on Linux Mint:
 
 ## Start the dialog
 
-Start the theme changer from the main menu: **${View} > ${Change theme}**.
+Start the theme changer from the main menu: **Affichage > ${Change theme}**.
 You can select the new theme from a drop-down list.
 
 
@@ -64,4 +58,4 @@ You can select the new theme from a drop-down list.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2026 Peter Triesberger. All rights reserved.
+Copyright (c) 2024 Peter Triesberger. All rights reserved.

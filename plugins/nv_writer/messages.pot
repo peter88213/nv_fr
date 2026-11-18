@@ -3,8 +3,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 5.4.1\n"
-"POT-Creation-Date: 2026-06-21 08:36:21\n"
+"Project-Id-Version: 5.10.0\n"
+"POT-Creation-Date: 2026-11-18 17:15:05\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: LANGUAGE\n"
@@ -92,10 +92,10 @@ msgstr ""
 msgid "Delete to end of line"
 msgstr ""
 
-msgid "Distraction-free writing plugin Online help"
+msgid "Distraction-free writing plugin Options"
 msgstr ""
 
-msgid "Distraction-free writing plugin Options"
+msgid "Distraction-free writing plugin help"
 msgstr ""
 
 msgid "Documents found that might be edited"
@@ -134,10 +134,16 @@ msgstr ""
 msgid "Green"
 msgstr ""
 
+msgid "Help"
+msgstr ""
+
 msgid "Help on/off"
 msgstr ""
 
 msgid "Key shortcut"
+msgstr ""
+
+msgid "Line height"
 msgstr ""
 
 msgid "Live update"
@@ -164,9 +170,6 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-msgid "Online help"
-msgstr ""
-
 msgid "Open new line"
 msgstr ""
 
@@ -177,6 +180,9 @@ msgid "Outline"
 msgstr ""
 
 msgid "Paper"
+msgstr ""
+
+msgid "Paragraph spacing (lines)"
 msgstr ""
 
 msgid "Paste"
@@ -239,10 +245,19 @@ msgstr ""
 msgid "UPPERCASE"
 msgstr ""
 
+msgid "Undefined"
+msgstr ""
+
 msgid "Undo"
 msgstr ""
 
 msgid "Untitled"
+msgstr ""
+
+msgid "User guide"
+msgstr ""
+
+msgid "Username"
 msgstr ""
 
 msgid "View"
@@ -258,9 +273,6 @@ msgid "World building"
 msgstr ""
 
 msgid "Write in distraction free mode"
-msgstr ""
-
-msgid "https://peter88213.github.io/nvhelp-en"
 msgstr ""
 
 msgid "lowercase"

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Export} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > ${Export} menu
 
 ---
 
@@ -230,7 +230,7 @@ elements to another projects.
 > **Hint**
 > 
 > To import XML data files from another project, use the **${Import}**
-> command in the **${Characters}**, **${Locations}**, **${Items}**, 
+> command in the **Signes**, **Lieux**, **Objets**, 
 > or **${Plot}** menu.
 
 ---

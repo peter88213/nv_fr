@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > Basic concepts
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Basic concepts
 
 ---
 
@@ -42,7 +42,7 @@ inserting first level headings between the chapters, if needed.
 > the level.
 
 
-### ${Chapters}
+### Chapitres
 
 A *novelibre* project must at least have one chapter. In the exported
 documents, regular chapters have a second level heading.
@@ -117,9 +117,9 @@ from word count totals and export.
 
 ## Section completion status
 
-You can assign a ${Status} to each "${Normal}" type section via context menu
-or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit}*,
-*${2nd Edit}*, and *${Done}*.
+You can assign a État to each "${Normal}" type section via context menu
+or Section menu. You can choose between *Plan*, *Brouillon*, *1ère édition*,
+*2ème édition*, and *Terminé*.
 
 -   You can choose a ${Coloring mode} to display sections in different colors 
     depending on their completion status.
@@ -128,7 +128,7 @@ or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit
     ${Work phase}, and choose a ${Coloring mode} that highlights sections 
     that are behind schedule.
 
--   Newly created sections are set to ${Outline} by default.
+-   Newly created sections are set to Plan by default.
 
 -   Word counts by status appear in the ${Book} properties.
 
@@ -141,7 +141,7 @@ or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit
 
 ## Characters and story world
 
-You can define ${Characters}, ${Locations}, and ${Items}, and you can relate them
+You can define Signes, Lieux, and Objets, and you can relate them
 to sections to keep track of their place in the story. There is also
 some metadata stored with *novelibre*, mainly as a quick reference that
 might come in handy when writing or editing.

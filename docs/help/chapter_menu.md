@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Chapter} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Chapitre menu
 
 ---
 
-# ${Chapter} menu
+# Chapitre menu
 
 **Chapter/part operation**
 
@@ -10,7 +10,7 @@
 
 **Add a new chapter**
 
-With **${Chapter} > ${Add Chapter}** you can add a chapter to the tree.
+With **Chapitre > ${Add Chapter}** you can add a chapter to the tree.
 
 -   The new chapter is placed at the next free position after the
     selection, if possible.
@@ -28,7 +28,7 @@ With **${Chapter} > ${Add Chapter}** you can add a chapter to the tree.
 
 **Add a new part**
 
-With **${Chapter} > ${Add Part}** you can add a part to the tree.
+With **Chapitre > ${Add Part}** you can add a part to the tree.
 
 -   The new part is placed at the next free position on the chapter
     level after the selection, if possible.
@@ -41,7 +41,7 @@ With **${Chapter} > ${Add Part}** you can add a part to the tree.
 
 **Add new chapters in bulk**
 
-With **${Chapter} > ${Add multiple chapters...}** you can add up to 20
+With **Chapitre > ${Add multiple chapters...}** you can add up to 20
 chapters to the tree.
 
 -   You will be prompted to enter the number of new chapters.
@@ -60,7 +60,7 @@ chapters to the tree.
 
 **Set the type of the selected chapters**
 
-With **${Chapter} > ${Set Type}** you can set the
+With **Chapitre > ${Set Type}** you can set the
 type of the selected chapter to *${Normal}* or *${Unused}* .
 
 > **Note**
@@ -72,7 +72,7 @@ type of the selected chapter to *${Normal}* or *${Unused}* .
 
 **Change the level of the selected chapters**
 
-With **${Chapter} > ${Change Level}** you can turn chapters into parts and
+With **Chapitre > ${Change Level}** you can turn chapters into parts and
 vice versa.
 
 -   **${1st Level}** converts the selected chapters into parts.
@@ -83,7 +83,7 @@ vice versa.
 
 **Assign a color to all selected chapters and parts**
 
-With **${Chapter} > ${Assign color}...**
+With **Chapitre > ${Assign color}...**
 you can assign a color to all chapters and parts in a single or multiple selection.
 A color picker dialog opens.
 If you cancel the color choosing process, the color of the selected chapters and parts remain unchanged.
@@ -93,7 +93,7 @@ If you cancel the color choosing process, the color of the selected chapters and
 
 **Reset the colors of all selected chapters and parts**
 
-With **${Chapter} > ${Reset color}**
+With **Chapitre > ${Reset color}**
 you can clear the color assignments for all chapters and parts in a single or multiple selection.
 
 ---
@@ -102,7 +102,7 @@ you can clear the color assignments for all chapters and parts in a single or mu
 
 **Split one book in two**
 
-With **${Chapter} > ${Move selected chapters to new project}** you can create
+With **Chapitre > ${Move selected chapters to new project}** you can create
 a new project containing the moved chapters/sections and all related
 elements and plot lines/plot points. The selected chapters are removed
 from the current project and pasted into an auto-generated project whose
@@ -113,7 +113,7 @@ the moved sections are retained.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Chapter} > ${Export chapter descriptions for editing}** you can
+With **Chapitre > ${Export chapter descriptions for editing}** you can
 create a text document that contains a **brief synopsis** with
 part/chapter headings and chapter descriptions that can be edited and
 reimported. File name suffix is `_chapters_tmp`.
@@ -136,7 +136,7 @@ reimported. File name suffix is `_chapters_tmp`.
 
 **Export an ODT document that can be imported again after editing**
 
-With **${Chapter} > ${Export part descriptions for editing}** you can create a
+With **Chapitre > ${Export part descriptions for editing}** you can create a
 text document that contains a **very brief synopsis** with part headings
 and part descriptions. File name suffix is `_parts_tmp`.
 
@@ -155,7 +155,7 @@ and part descriptions. File name suffix is `_parts_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Chapter} > ${Export chapter table}** you can create a spreadsheet
+With **Chapitre > ${Export chapter table}** you can create a spreadsheet
 that contains a row per chapter. The document can be edited with *Calc*
 and reimported. File name suffix is `_chapterlist_tmp`.
 
@@ -174,7 +174,7 @@ and reimported. File name suffix is `_chapterlist_tmp`.
 
 **Export an ODS document that can be imported again after editing**
 
-With **${Chapter} > ${Export part table}** you can create a spreadsheet that
+With **Chapitre > ${Export part table}** you can create a spreadsheet that
 contains a row per part. File name suffix is `_partlist_tmp`.
 
 > **Note**
@@ -194,7 +194,7 @@ contains a row per part. File name suffix is `_partlist_tmp`.
 
 **Show an HTML report with section cards arranged by chapters**
 
-With **${Chapter} > ${Show chapter board in browser}** you can create a HTML file
+With **Chapitre > ${Show chapter board in browser}** you can create a HTML file
 that contains a board with "index cards" for the chapters and all used sections.
 The index cards contain the title and the description of the corresponding element.
 The chapter cards are arranged in the first column.

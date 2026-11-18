@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Plot line} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > ${Plot line} properties
 
 ---
 
@@ -26,7 +26,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ${Short name}
+## Nom abrégé
 
 Be sure to enter a short name to be displayed as a reference in the
 tree. A single character like "A", "B", "C" is recommended.
@@ -39,7 +39,7 @@ tree:
 ## Section assignments
 
 The number of sections that belong to the selected plot line is shown
-below the "${Short name}" entry. The assignments can be made in the
+below the "Nom abrégé" entry. The assignments can be made in the
 section properties view. You can unlink all
 sections from the selected plot line at once by clicking on the 
 **${Clear section assignments}** button.
@@ -50,7 +50,7 @@ sections from the selected plot line at once by clicking on the
 > offered by the
 > [nv_matrix plugin](https://github.com/peter88213/nv_matrix/).
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -77,9 +77,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -94,7 +94,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -133,9 +133,9 @@ in the plot line row.
 
 ## Navigation buttons
 
--   **${Previous}** lets you navigate to the previous plot line in the
+-   **Précédent** lets you navigate to the previous plot line in the
     tree.
--   **${Next}** lets you navigate to the next plot linie in the tree.
+-   **Préc** lets you navigate to the next plot linie in the tree.
 
 ---
 

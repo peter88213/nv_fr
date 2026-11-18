@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_templates
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_templates
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **${Help} > ${Templates plugin help}**.
+can open it with **Aide > ${Templates plugin help}**.
 
 ---
 
@@ -24,7 +24,7 @@ With *novelibre*, you can define a narrative structure with stages.
 
 ## Command reference
 
-### ${File} > ${New}
+### Fichier > Nouveau
 
 #### ${Create from template...}
 
@@ -36,7 +36,7 @@ template file.
     name later when saving the project.
 -   Then a second file select dialog asks for the template file to apply.
 
-### ${Tools} > ${Story Templates}
+### Outils > ${Story Templates}
 
 #### ${Load}...
 
@@ -44,7 +44,7 @@ This loads the narrative structure from a Markdown template file.
 
 -   A file select dialog asks for the template file to apply.
 
-#### ${Save}...
+#### Enregistrer...
 
 This saves the narrative structure to a Markdown template file.
 

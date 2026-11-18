@@ -1,14 +1,14 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Tools} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Outils menu
 
 ---
 
-# ${Tools} menu
+# Outils menu
 
 **Miscellaneous functions**
 
 > **Note**
 > 
-> The *${Tools}* menu can be extended by plugins to add more features.
+> The *Outils* menu can be extended by plugins to add more features.
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@
 
 **Project independent program settings**
 
-With **${Tools} > ${Backup options}** you can open a dialog for settings
+With **Outils > ${Backup options}** you can open a dialog for settings
 concerning the backup.
 
 
@@ -55,7 +55,7 @@ project file in the set backup directory each time it is saves.
 
 **Launch the file manager**
 
-With **${Tools} > ${Open installation folder}** you can launch the file
+With **Outils > ${Open installation folder}** you can launch the file
 manager with the *novelibre* installation folder. This might come in
 handy if you wish to edit configuration files, or install your own
 plugins.
@@ -66,7 +66,7 @@ plugins.
 
 **Display and manage installed plugins**
 
-With **${Tools} > ${Plugin Manager}** you can open the 
+With **Outils > ${Plugin Manager}** you can open the 
 *${Installed plugins}* dialog.
 
 
@@ -126,7 +126,7 @@ Select the plugin, and click on the **${Uninstall}** button.
 
 **Show an HTML report with all the "sticky notes"**
 
-With **${Tools} > ${Show notes}** you can create a HTML file that contains
+With **Outils > ${Show notes}** you can create a HTML file that contains
 all "sticky notes" along with the titles of the tree elements they are
 associated with, and launch your system's web browser for displaying it.
 

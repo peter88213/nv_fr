@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${File} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Fichier menu
 
 ---
 
-# ${File} menu
+# Fichier menu
 
 **File operation**
 
-## ${New}
+## Nouveau
 
 **Create a new novel project**
 
-With **${File} > ${New}** you can create a new project. This will open a
+With **Fichier > Nouveau** you can create a new project. This will open a
 submenu.
 
 > **Note**
@@ -45,7 +45,7 @@ submenu.
 
 **Open a novel project**
 
-With **${File} > ${Open...}** or `${Ctrl}`-`O`, you can open an existing project
+With **Fichier > ${Open...}** or `${Ctrl}`-`O`, you can open an existing project
 file.
 
 > **Note**
@@ -53,11 +53,11 @@ file.
 > When opening a project, the current project will be closed. If there are
 > unsaved changes, you will be asked for saving.
 
-## ${Reload}
+## Recharger
 
 **Reload the novel project**
 
-With **${File} > ${Reload}** or `${Ctrl}`-`R`, you can overwrite the project in
+With **Fichier > Recharger** or `${Ctrl}`-`R`, you can overwrite the project in
 the memory with the last saved version.
 
 > **Tip**
@@ -73,7 +73,7 @@ the memory with the last saved version.
 
 **Restore the latest backup file**
 
-With **${File} > ${Restore backup}** or `${Ctrl}`-`B`, you can load the
+With **Fichier > ${Restore backup}** or `${Ctrl}`-`B`, you can load the
 penultimate version of the project file. This will overwrite the last
 saved project file. You will get a warning, because changes may be lost.
 
@@ -91,19 +91,19 @@ saved project file. You will get a warning, because changes may be lost.
 
 **Enforce tree refresh after making changes**
 
-With **${File} > ${Refresh Tree}** or `F5`, you can refresh the tree.
+With **Fichier > ${Refresh Tree}** or `F5`, you can refresh the tree.
 
 -   "${Normal}" sections that have been moved to an "${Unused}" chapter
     are made "${Unused}".
 -   Parts and chapters are renumbered according to the Auto numbering
     settings.
--   The "${Trash}" chapter is moved to the end of the book, if necessary.
+-   The "Corbeille" chapter is moved to the end of the book, if necessary.
 
 ## ${Lock}
 
 **Protect the project while edited outsides**
 
-With **${File} > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
+With **Fichier > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
 
 > **Note**
 > 
@@ -113,7 +113,7 @@ With **${File} > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
 
 **Make the project editable**
 
-With **${File} > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
+With **Fichier > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
 
 ---
 
@@ -121,7 +121,7 @@ With **${File} > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
 
 **Launch the file manager**
 
-With **${File} > ${Open Project folder}** or `Ctrl-P`, you can launch the
+With **Fichier > ${Open Project folder}** or `Ctrl-P`, you can launch the
 file manager with the current project folder. This might come in handy,
 if you e.g. wish to delete files or edit configuration files.
 
@@ -133,7 +133,7 @@ if you e.g. wish to delete files or edit configuration files.
 
 **Provide a css style sheet in the project folder**
 
-With **${File} > ${Copy style sheet}** you can copy the style sheet
+With **Fichier > ${Copy style sheet}** you can copy the style sheet
 *novx.css* into the current project folder. This allows you to view the
 *.novx* project file with a web browser.
 
@@ -152,7 +152,7 @@ project, displayed using the style sheet.
 
 **Discard the current manuscript by renaming it**
 
-With **${File} > ${Discard manuscript}** you can add the *.bak* extension 
+With **Fichier > ${Discard manuscript}** you can add the *.bak* extension 
 to the current manuscript. This may help to avoid confusion about changes 
 made with *novelibre* and *Writer*.
 
@@ -163,11 +163,11 @@ made with *novelibre* and *Writer*.
 
 ---
 
-## ${Save}
+## Enregistrer
 
 **Save the project**
 
-With **${File} > ${Save}** or `${Ctrl}`-`S`, you can save the project. 
+With **Fichier > Enregistrer** or `${Ctrl}`-`S`, you can save the project. 
 A backup copy is then automatically created.
 
 > **Note**
@@ -179,7 +179,7 @@ A backup copy is then automatically created.
 
 **Save the project with another file name/at another place**
 
-With **${File} > ${Save as...}** or `${Ctrl}`-`${Shift}`-`S`, you can save the
+With **Fichier > ${Save as...}** or `${Ctrl}`-`${Shift}`-`S`, you can save the
 project with another file name/at another place. Then a file select
 dialog opens to specify the new path and file name.
 
@@ -196,11 +196,11 @@ dialog opens to specify the new path and file name.
 > with the name of a new directory, separated by a pipe symbol `|`.
 
 
-## ${Close}
+## Fermer
 
 **Close the novel project**
 
-With **${File} > ${Close}** you can close the project without exiting the
+With **Fichier > Fermer** you can close the project without exiting the
 program. When closing the project, you will be asked for saving the
 project, if it has changed.
 
@@ -209,12 +209,12 @@ project, if it has changed.
 > If you open another project, the current project is automatically
 > closed.
 
-## ${Quit}/${Exit}
+## ${Quit}/Sortir
 
 **Exit the program**
 
--   Under Windows you can exit with **${File} > ${Exit}** or `Alt`-`F4`.
--   Otherwise you can exit with **${File} > ${Quit}** or `${Ctrl}`-`Q`.
+-   Under Windows you can exit with **Fichier > Sortir** or `Alt`-`F4`.
+-   Otherwise you can exit with **Fichier > ${Quit}** or `${Ctrl}`-`Q`.
 
 > **Note**
 > 

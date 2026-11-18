@@ -1,14 +1,14 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Help} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Aide menu
 
 ---
 
-# ${Help} menu
+# Aide menu
 
 **Quick access to the help pages for novelibre and its plugins**
 
 > **Note**
 > 
-> The *${Help}* menu can be extended by plugins adding links to their
+> The *Aide* menu can be extended by plugins adding links to their
 > specific help pages.
 
 > **Hint**
@@ -17,17 +17,17 @@
 
 ## ${User guide}
 
-With **${Help} > ${User guide}** you can launch your system web
+With **Aide > ${User guide}** you can launch your system web
 browser with the *novelibre* user guide URL.
 
 ## ${About novelibre}
 
-With **${Help} > ${About novelibre}** you get a pop-up window with the
+With **Aide > ${About novelibre}** you get a pop-up window with the
 version number and a legal notice.
 
 ## novelibre ${Home page}
 
-With **${Help} > novelibre ${Home page}** you can launch your system web
+With **Aide > novelibre ${Home page}** you can launch your system web
 browser with the *novelibre* home page URL.
 
 > **Hint**
@@ -37,7 +37,7 @@ browser with the *novelibre* home page URL.
 
 ## ${News about novelibre}
 
-With **${Help} > ${News about novelibre}** you can launch your system web
+With **Aide > ${News about novelibre}** you can launch your system web
 browser with the URL of 
 [What's new?](https://github.com/peter88213/novelibre/discussions/1?sort=new) in
 the discussion forum. There you will find information about the major

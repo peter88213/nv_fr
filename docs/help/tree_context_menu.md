@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > Tree view context menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Tree view context menu
 
 ---
 
@@ -38,17 +38,17 @@ chapters are visible.
 >   This also applies to the section viewpoint and for plot lines/plot points.   
 
 
-### ${Cut}
+### Couper
 
 Move the selected element from the tree to the clipboard.
 Same as `${Ctrl}`-`X`.
 
-### ${Copy}
+### Copier
 
 Copy the selected element to the clipboard.
 Same as `${Ctrl}`-`C`.
 
-### ${Paste}
+### Coller
 
 Paste the element stored in the clipboard to the tree.
 Same as `${Ctrl}`-`V`.
@@ -189,16 +189,16 @@ confirmation is required before exporting.
 > If you overwrite it before reimporting, changes to other chapters may be
 > lost.
 
-### ${Delete}
+### Supprimer
 
 Deletes the selected tree element and its children.
 
 -   Parts and chapters are deleted.
--   Sections are marked "${Unused}" and moved to the "${Trash}" chapter.
+-   Sections are marked "${Unused}" and moved to the "Corbeille" chapter.
 -   Deleting a part has no effect on its subordinate chapters.
--   Deleting a chapter moves its sections to the "${Trash}" chapter.
--   The "${Trash}" chapter is created automatically, if needed.
--   When deleting the "${Trash}" chapter, all its sections are deleted.
+-   Deleting a chapter moves its sections to the "Corbeille" chapter.
+-   The "Corbeille" chapter is created automatically, if needed.
+-   When deleting the "Corbeille" chapter, all its sections are deleted.
 
 ### ${Set Type}
 
@@ -211,7 +211,7 @@ Sets the type of the selected chapter or section. This can be
 > *${Unused}*.
 
 
-### ${Set Status}
+### Définir le status
 
 Sets the completion status of the selected section.
 
@@ -232,9 +232,9 @@ of the list, this will clear the viewpoint association.
 > Select a parent node to set the viewpoint for multiple sections.
 
 
-## ${Characters}/${Locations}/${Items} context menu entries
+## Signes/Lieux/Objets context menu entries
 
-### ${Add}
+### Ajouter
 
 Adds a new character/location/item.
 
@@ -267,7 +267,7 @@ before exporting.
 > If you overwrite it before reimporting, changes to other section
 > descriptions may be lost.
 
-### ${Delete}
+### Supprimer
 
 Deletes the selected character/location/item.
 
@@ -275,7 +275,7 @@ Deletes the selected character/location/item.
 > 
 > Be aware, there is no "Undo" feature.
 
-### ${Set Status}
+### Définir le status
 
 Sets the selected character's status. This can be *major* or *minor*.
 Major characters are highlighted in the tree view.
@@ -288,7 +288,7 @@ Major characters are highlighted in the tree view.
 
 > **Hint**
 > 
-> Select the *${Characters}* root node to set the status for all characters.
+> Select the *Signes* root node to set the status for all characters.
 
 
 ### ${Highlight sections with this viewpoint}
@@ -361,7 +361,7 @@ Set all sections that are assigned to the selected plot line to
 ${Normal}. This allows a plot line that has been excluded to be 
 reintegrated into the manuscript.
 
-### ${Delete}
+### Supprimer
 
 Deletes the selected plot line/plot point.
 
@@ -380,7 +380,7 @@ or plot point.
 
 ## Project notes context menu entries
 
-### ${Add}
+### Ajouter
 
 Adds a new project note.
 

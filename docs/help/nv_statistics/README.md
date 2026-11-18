@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_statistics
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_statistics
 
 ---
 
@@ -8,13 +8,13 @@
 
 This page refers to the latest
 [nv_statistics](https://github.com/peter88213/nv_statistics/) release.
-You can open it with **${Help} > ${Project statistics plugin help}**.
+You can open it with **Aide > ${Project statistics plugin help}**.
 
 
 ## Launch the program
 
 -   Open the project statistics viewer from the main menu: 
-    **${Tools} > ${Project statistics view}**,
+    **Outils > ${Project statistics view}**,
 -   or via the ![Statistics](images/statistics.png) button in the
     toolbar.
 

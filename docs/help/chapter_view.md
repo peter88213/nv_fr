@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Chapter}/${Part} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../) > [Aide](./) > Chapitre/${Part} properties
 
 ---
 
-# ${Chapter}/${Part} properties
+# Chapitre/${Part} properties
 
 The Chapter/part properties view opens in the right pane when you select
 a chapter or a part in the tree. You can edit the properties of the
@@ -12,7 +12,7 @@ selected chapter or part.
 > 
 > You can change any chapter into a part or vice versa via the 
 > **${Change Level}** entry in the context menu, 
-> the **${Part}** menu, or the **${Chapter}** menu.
+> the **${Part}** menu, or the **Chapitre** menu.
 
 
 
@@ -55,7 +55,7 @@ excluded from auto numbering, and the title you enter manually will persist.
 If this checkbox is ticked, the chapter's first section is formatted as
 an epigraph, if it is of the *${Normal}* type.
 
-## ${Links}
+## Liens
 
 Expand or collapse this frame by clicking on the label.
 
@@ -82,9 +82,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Ajouter Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Ajouter](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -99,7 +99,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Ouvrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -139,15 +139,15 @@ in the plot line row.
 
 ## Navigation buttons
 
-### ${Chapter} view
+### Chapitre view
 
--   **${Previous}** lets you navigate to the previous chapter in the tree.
--   **${Next}** lets you navigate to the next chapter in the tree.
+-   **Précédent** lets you navigate to the previous chapter in the tree.
+-   **Préc** lets you navigate to the next chapter in the tree.
 
 ### Part view
 
--   **${Previous}** lets you navigate to the previous part in the tree.
--   **${Next}** lets you navigate to the next part in the tree.
+-   **Précédent** lets you navigate to the previous part in the tree.
+-   **Préc** lets you navigate to the next part in the tree.
 
 ---
 

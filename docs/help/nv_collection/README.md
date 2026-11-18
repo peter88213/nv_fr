@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_collection
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Pages en français](../../) > [Aide](../) > nv_collection
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_collection](https://github.com/peter88213/nv_collection/) release.
-You can open it with **${Help} > ${Collection plugin help}**.
+You can open it with **Aide > ${Collection plugin help}**.
 
 ---
 
@@ -18,23 +18,23 @@ access to your projects.
 
 ## Start the collection manager
 
-Open the collection manager from the main menu: **${File} > ${Collection}**.
+Open the collection manager from the main menu: **Fichier > ${Collection}**.
 
 ## Open a collection
 
 By default, the latest collection selected is preset. You can change it
-with **${File} > ${Open}**.
+with **Fichier > Ouvrir**.
 
 ## Create a new collection
 
-With **${File} > ${New}** you can create a new collection. This will close
+With **Fichier > Nouveau** you can create a new collection. This will close
 the current collection and open a file dialog asking for the location
 and file name of the collection to create. Once you specified a valid
 file path, a blank collection appears.
 
 ## Create a new series
 
-With **${Series} > ${Add}** you can add a new series. Edit the series' title
+With **${Series} > Ajouter** you can add a new series. Edit the series' title
 and description in the right window.
 
 ## Add books to the collection
@@ -45,36 +45,37 @@ selected, the book is added as a part of this series.
 
 ## Update book description
 
-To update the book description from the current project, use **Book >
-Update book data from the current project**.
+To update the book description from the current project, use **${Book} >
+${Update book data from the current project}**.
 
 
 > **Caution**
 > 
 > Be sure not to change the book title, because it is used as identifier.
 
-To update the current project description from the book, use **Book >
-Update project data from the selected project**.
+To update the current project description from the book, use **${Book} >
+${Update project data from the selected project}**.
 
 ## Remove books from the collection
 
-To remove the selected book from the collection, use **Book > Remove
-selected book from the collection**.
+To remove the selected book from the collection, use **${Book} > ${Remove
+selected book from the collection}**.
 
 ## Move series and books
 
-Drag and drop.
+Drag and drop while pressing the `${Alt}` key.
+Be aware, there is no "Undo" feature.
 
-
-> **Caution**
+> **Hint**
 > 
-> Be aware, there is no "Undo" feature.
+> With some Linux desktops, it may be necessary to first press the mouse
+> button, then the `${Alt}` key.
 
 
 ## Remove books
 
 To remove a book from the collection, either select the book and hit the
-`Del` key, or use **${Book} > ${Remove selected book from the collection}**.
+`${Del}` key, or use **${Book} > ${Remove selected book from the collection}**.
 
 
 > **Note**
@@ -99,8 +100,8 @@ collection, use **${Series} > ${Remove selected series and books}**.
 
 ## Quit/Exit
 
--   Under Windows you can exit with **${File} > ${Exit}** or `Alt`-`F4`.
--   Otherwise you can exit with **${File} > ${Quit}** or `${Ctrl}`-`Q`.
+-   Under Windows you can exit with **Fichier > Sortir** or `Alt`-`F4`.
+-   Otherwise you can exit with **Fichier > ${Quit}** or `${Ctrl}`-`Q`.
 
 
 ---
@@ -108,4 +109,4 @@ collection, use **${Series} > ${Remove selected series and books}**.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2026 Peter Triesberger. All rights reserved.
+Copyright (c) 2024-2026 Peter Triesberger. All rights reserved.
